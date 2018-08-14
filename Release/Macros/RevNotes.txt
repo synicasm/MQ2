@@ -1,0 +1,179 @@
+
+20180710 Rev 4.40a - woobs
+- Fixed an buffing issue with disciplines and scripts.
+
+20180624 Rev 4.40 - woobs
+- Significant speed improvements for Healing section. You should notice the improvements, especially if you have many bots and you don't use a lot of different class-specific heal thresholds in one heal.
+- 'tank' in the heal section is no longer exclusive. However, if it exists, and the tank needs a heal, the tank will take priority over other classes listed.
+- Significant speed improvements in the buffing and debuffing sections.
+- AA purchasing should also go more smoothly. If you currently max-out an AA that you have set to "M", the "M" will be replaced with an "X". This will help the macro to no longer check it, and you will be able to visually see that you have completed it by looking in the ini file.
+
+20180430 Rev 4.36 - woobs
+- Fixed an issue with disc's in the Debuff section not casting properly.
+- Fixed an issue with long-recasting spells not casting.
+- Along with the above change, I made some changes to the Heals and Debuffs portions to better optimize casting of these spells and other spells with mid to long refresh times. My intent was to not have the macro waiting around to cast a spell that wasn't going to refresh in the next few seconds (ie, let's move on). Let me know if you run into any issues. I am still tweaking this, but it seems to be working well for me so far.
+- Added 'disc' as an general option for AB (Buff) entries.
+- Added an option to AD (Debuff) entries to check if the intended mob is on an XTarget Auto-Hater. Code: UseHoTT=101. Similar to ADAggroOnly, but no need to change targets and you can set it for individual entries. For instance, I wanted to slow mobs that were not the tank's target (adds) at 100 percent, but only if they were already on XTarget auto-hate (ie, I don't want to aggro them myself).  Using this entry as an example:
+[AD4]
+Gem=alt
+Spell=Turgur's Swarm
+DurMod=0
+SpellAlias=slow
+Announce=
+SpellMinMana=0
+SpellRecast=0
+SpellDelay=0
+TarCnt=1
+TarType=2
+TarBegHP=100
+TarEndHP=1
+UseHoTT=101
+SpellFoci=
+SpellCastonResist=
+IfSpellImmune=
+PreCondition=TRUE
+  
+20180331 Rev 4.35 - woobs
+- Added 'grp' as a valid class for heals. Meant for Group heals on your group only. Will use the new Group.Injured[] method.
+  - For instance, TarCnt=3 and Class=pc grp80 --> This will cast the Heal on yourself if 3 or more people in your group are under 80% Health.
+  - This should make these types of casts faster. Please report any issues.
+- Added a default Startup Script (MBStartup). This script will auto-execute on ModBot startup. A good place to put Global variable declares, or anything else you might like to occur on startup. An empty default script will be created for you.
+- Fixed an issue with some Beneficial group spells not being cast when used in the AD section (Illusions of Grandeur, and similar).
+- Added MQ2MoveUtils to the required plugins startup check.
+- Miscellaneous enhancements/fixes.
+
+20180129 Rev 4.34 - woobs
+- Made adjustments to the default recast handling for AE Debuffs. If you haven't overridden the delay, they should now reset/recast when adds are detected.
+- Added the handling of swarm pets. They should now automatically join the fight (switch to new target) if they are still up from a prior target.
+- Fixed an issue with trying to rebuff a group spell on a group member who is out of range (thanks rlane187).
+- Miscellaneous enhancements/fixes.
+
+20180101 Rev 4.33 - woobs
+- Fixed an issue with Events waiting for spell gems to refresh, when they really should not. This should help your toons to not get stuck waiting to cast something that isn't ready (especially when it has a long recast). For instance, my wizard was getting stuck waiting for Musing Harvest to refresh.
+
+20171219 Rev 4.32 - woobs
+- Updated for RoS (13th spell gem)
+- Fixed a long-standing issue with Pausing/Following. Often, I would fight/pause/move to a new spot. Sometimes, a bot would get 'confused' and not follow to the new spot. This should be fixed now. Yay!
+- Miscellaneous enhancements/fixes.
+
+20171125 Rev 4.31 - woobs
+- Miscellaneous enhancements/fixes.
+
+20171104 Rev 4.30 - woobs
+- AA purchasing is back!
+- Added DoAA, AABank, AAtoNormal, AAAnnounce, AAVerbose, AAWarning for auto-purchasing AA's.
+- Some other minor enhancements/fixes.
+
+20171028 Rev 4.22 - woobs
+- Fix for HoT recast issue.
+- Resolved additional undeclared variable issues.
+
+20171018 Rev 4.21 - woobs
+- Resolved additional undeclared variable issues.
+- MQ2Twist should no longer be required for non-bards.
+
+20171008 Rev 4.20 - woobs
+- Added DoRez, RezMinPct, RezAcceptCall, RezGiveUpSeconds for customizing your rez acceptance options.
+- Added auto-accept for raid invites (similar to group invites).
+- Updated for new aura type handling.
+- Added /disc handling to several areas (like events).
+- Updated for undeclared variables and new parameter passing functionality.
+- Several modules had heavy rewrites due to new nested loop functionality.
+- Streamlined with the removal of older advpath functionality.
+- Miscellaneous fixed/enhancements.
+
+20170222 Rev 4.11 - woobs
+- Fixed an issue with character not sitting when falling below the new SitEndurPct.
+- Added a 'quiet cast' option to CastCall to suppress the /bc "Casted" messages. Simply use 'qcast' instead of 'cast' in your scripts. Example:  /call CastCall {Me.CleanName} ''qcast spire {TankName}''
+
+20170119 Rev 4.10 - woobs
+- Major changes to Buff stacking checks.
+     - Rewrote the stack checks to use new stack-checking functions in MQ2NetBots.
+     - You must use the new MQ2NetBots included in the zip (or make similar modifications to your version) for ModBot to work properly.
+     - This eliminates the need to use a modified version of MQ2Utilities (which is no longer in the zip).
+- Added ModBot .ini variables for Mana and Endurance percentages to check for sitting (SitManaPct/SitEndurPct). Where appropriate, your character will sit to recover when less than these percentage(s). The default values are the old hard-coded values so as not to affect current functionality.
+- Fixed the GiveCheck Sub. "Give" and "Handin" should function again.
+- Fixed a typo in ModCure. Also added a 'spell ready' check so your character didn't get stuck in the cure loop waiting for a long-recast gem to refresh.
+
+20161214 Rev 4.05 - woobs
+- Added ACPetEnrage=TRUE/FALSE in the Melee section of the modbot ini. It will function similar to the MQ2Melee 'enrage' setting. Defaults to TRUE so as not to affect current functionality. Set it to FALSE to no longer have ModBot back off your pet on enrage (helpful when your pet is the tank).
+
+20161120 Rev 4.04 - woobs
+- Changes to better handle spells with similar names.
+
+20160919 Rev 4.03 - woobs
+- Some quick changes to get the Sell routine functioning.
+
+20160630 Rev 4.02 - woobs
+- Fixed setinivar & cast <on/off> to work with the new .ini formats.
+- Moved the xxNewFormat settings to auto-populate on the first creation of an empty .ini.
+- Adjusted the handling of "MasterList=Netbots" to better handle commands from NetBot clients.
+- Reactivated Gift of Mana functionality. Use a sigle GoMNuke entry, with support for multiple aliases.
+GoMNuke=nuke1|nuke2  etc.
+The intent is to try them in order. If the 1st is available and within the GoM Song Level, it will cast that one. If not, go to the next, etc. Coded to cast detrimentals on ACMATarget, or non-detrimentals on TankName. I have tested this for functionality, but not extensively.
+
+20160627 Rev 4.01 - woobs
+- Fixed some syntax issues/typos.
+- Added Confirmation Dialog handling for /invite.  Thanks Nayenia and warlock45.
+
+20160625 Rev 4.00 - woobs
+- Added new formatting options to the following ModBot.ini sections:
+ - AdvHeal, AdvDebuff, AdvBuff, AdvEvent, AdvCure,
+ - Usage: AxNewFormat=1 (ie, ABNewFormat=1). Default is 0 (use old format).
+ - This allows greater flexibility in the entering/reordering of buffs, debuffs, etc., since the 'position' is no longer repeated/attached to each entry.
+ - For instance:
+ (old format)
+	ABGem1=4
+	ABSpell1=Ferocious Growth
+	ABDurMod1=90
+	ABSpellAlias1=growth
+	ABAnnounce1=/bc
+	ABSpellMinMana1=0
+	ABTarCnt1=1
+	ABTarType1=tank
+	ABRecast1=FALSE
+	ABSpellFoci1=
+	ABSpellIcon1=
+	ABPreCondition1=TRUE
+ (new format, add section header, remove the prefx and suffix from each line)
+	[AB1]
+	Gem=4
+	Spell=Ferocious Growth
+	DurMod=90
+	SpellAlias=growth
+	Announce=/bc
+	SpellMinMana=0
+	TarCnt=1
+	TarType=tank
+	Recast=FALSE
+	SpellFoci=
+	SpellIcon=
+	PreCondition=TRUE
+ - Each section has it's own xxNewFormat key, deafaulted to off so current ini's will continue to function as-is.
+
+- Added "manual" as a TankName option.
+ Usage: TankName=manual in .ini followed by /varset TankName xxx during operation.
+ Function: This allows you to 'manually' set the TankName during ModBot operation. Original functionality would use the .ini TankName entry and also get reset when you designate a character using either the Main Tank or Main Assist group roles. However, if set to 'manual', there is no automatic setting or reset done when Group Roles change. This is also very helpful when running more than one group. Once you have your bots running, you can /bca //varset TankName xxx for everyone.
+- Added "PullerName" setting. Functions similar to TankName. Uses initial entry, Group Puller Role, or 'manual' as TankName above. Again, this is very helpful if your Puller is in another group.
+- The 'manual' settings also come in handy since they ignore Group Roles that you may need to set for another purpose (ie, mercenary control).
+- Added "ZRadius" setting. Functions similar to Radius. Sets the z-axis radius for monitoring. This comes in especially handy in dungeons and multi-storied buildings, etc. The dafault is 100 (the original hard-coded value so current users will not have something unexpectedly changed). Personally, I have been using a default of 20 in my settings, unless I am underwater (where 100 comes in handy).
+- Added TarType 3 and 13 to ADDebuff entries. This is for "Named-only". Spawns will satisfy this when either:
+ - Spawn.Named is true or
+ - Spawn.ID matches new modbot variable NamedID. To force bots to cast the 3 & 13 spells on a particular non-named mob (ie, /bca //varset NamedID ${Target.ID})
+
+- Incorporated .RankName to ease spell setups/selections.
+- Removed deprecated DoAura and AuraCast coding.
+- Remove deprecated references to MQ2NetHeal.
+- Restructured CastOnResist functionality to better cooperate with the macro flow.
+- Restructured spell alias casting functionality to better cooperate with the macro flow.
+- Restructured Cure code to function more smoothly and make use of modified MQ2NetBots (see below). 
+
+- Notes:
+ - I currently have the GoM (Gift of Mana) functionality commented out while I work on restructuring it. It hasn't been a high-priority of mine since I no longer use it.
+
+- Plugin Notes:
+ - I am including my version of MQ2NetBots in the ModBot zip. You will need it for proper functionality. I think the other plugins I use pretty-much match what is posted in their threads. If you have a problem, let me know.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Prior RevNotes can be found in file:  "RevNotes (Prior to Rev 4.00).txt"

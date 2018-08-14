@@ -1,0 +1,19 @@
+| SpellSkillCheck.Mac by EqMule 2015
+| run with /mac SpellSkillCheck Abjuration|Alteration|Conjuration|Divination|Evocation
+| and the macro will show you a list of the fastest spells you can choose from in each speciallity
+
+#turbo 120
+
+Sub Main
+	/echo ${Param0}
+	/declare i int local
+	/declare casttime float local 100.0
+	/for i 1 to 800
+		/if (${Me.Book[${i}].Skill.Equal[${Param0}]}) {
+			/if (${Math.Calc[${Me.Book[${i}].MyCastTime}+${Me.Book[${i}].RecastTime}]}<=${casttime}) {
+				/varset casttime ${Math.Calc[${Me.Book[${i}].MyCastTime}+${Me.Book[${i}].RecastTime}]}
+				/echo ${Me.Book[${i}].Name} Mycast:${Me.Book[${i}].MyCastTime} Recast:${Me.Book[${i}].RecastTime} TotalCast:${Math.Calc[${Me.Book[${i}].MyCastTime}+${Me.Book[${i}].RecastTime}]}
+			}
+		}
+	/next i
+/return

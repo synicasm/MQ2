@@ -1,0 +1,142 @@
+TODO
+
+[High Priority]
+Working ? - Shaman - Add Ancestral Guard ALT
+working ? - Shaman - Add Union of Spirits ALT
+Working ? - Shaman - Add Ancestral Aid ALT
+Bard - Add Hymn of the Last Stand ALT
+Bard - Add Song of Stone ALT
+Bard - Add Funeral Dirge ALT
+Bard - Add Shield of Notes ALT
+Bard - Add Dance of Blades ALT
+Bard - Add Cacophont ALT
+Bard - Consider storm blade ?
+Bard - Consider thousand blades ?
+Bard - Add Disable reachging Notes when fighting / enable when moving.
+Cleric - Add Bestow Divine aura ALT
+Cleric - Add Silent Casting ALT
+Cleric - Add Sancuary ALT
+Cleric - Add RC and Purify ALT
+Cleric - Add Divine Retribution ALT
+Cleric - Add Ward of Purity ALT
+Cleric - Add Divine Avatar ALT
+Cleric - Add Celestial Hammer ALT
+Cleric = Add Turn Undead ALT
+Cleric - Add Celestial Regeneration ALT
+Wiz - Add Abscond (self/target)ALT
+Working ? - Wiz - Add Exodus (group)ALT
+Wiz - Add Slient Casting ALT
+Wiz - Add Strong Root ALT
+Workin ? - Wiz - Add Harvest of Druzill ALT
+Wiz - Add Ward of Destruction ALT
+Wiz - Add Manaburn for Nameds, etc
+Workdin ? - Wiz - Add Call of XUzl
+Wiz - Add Acromancy Alt
+Wiz - Add Cryomancy Alt
+Wiz - Add Pyromancy Alt
+Wiz - Add Mind Crash Alt
+Wiz - Add Improved Familiar ALT with kill pet ( 2 buff slots )
+Wiz - Add Frenzied Devastation ALT
+Monk - Add Dragon Force (push)
+Monk - Add Silent Strikes
+Monk - Add Grappling Strike ( pull)
+Monk - Add Imitate Death
+Monk - Add Destructive Force
+Monk - Add Focused Destructive Force
+Monk - Add Purify Body ATL
+SK - Add Death Peace ATL
+SK - Add hate step ( what is this for)
+SK - Add harmshield ALT
+SK - Add Encroching Darkness ALT ( snare with no hate or dmange ?)
+SK - Add Companions Fortification
+SK - Add Pet
+SK - Add Voice of Thule ALT
+
+
+
+
+
+All - Consider adding non group buff equivlents. Will need to Precheck...
+SK - Add AC / Atk Taps when we have the spell gems.
+wiz - Setup stun cast on CH's etc.. Think this is done. Maybe add check for Complete heals / gate
+clr - Add atone? 	mobs.PctAggro > 1, /echo ${ADMobCount}, ${Me.PctAggro}, ${XTarget[#].PctAggro}
+Clr - Fine Tune Healing / Possibly cordinate with Stocism
+Wiz - Add Concussion 
+Cleric - Buy Pearls for death pact ?
+Shaman - Consider heals for Stationary crew aka Cleric, Wizard, Shaman 
+		 Could cordinate with cleric hot and remove certain classes from the list. Currently Shaman is OOM so not till later.
+Cleric - Add Cleric aa Abilities
+Cleric - Add mark of the blameless (reverse DS)
+Cleric - Consider Mark of Kings
+Cleric - Consider Word of Replenishment
+Cleric - Consider Ward of Retribution Duration sucks would be ok for solo
+Cleric - COnsider Antidote
+Cleric - Add Hammer of Damnation
+Cleric - Consider Etheral Remedy 
+Cleric - Consider word of redemption
+Cleric - Add Divine Intervention
+Cleric - Get Emeralds for DI
+Shaman - Add Lingering Sloth if we have the buff slots.
+Shamna - Add Pure Spirt (cancel detrimental)
+Bard - Consider sining Arcane Aria during combat ( dd increase )
+Bard - Consider adding charm back with level pre cond.  Note uses mana so will have to turn off boastfull Bellow
+
+
+bard - Add puretone disc
+Shaman - Add Virulent paralysis ( push back root for when getting attacked by adds.)
+Shaman - Add Radiant Cure
+Shaman - Add Dampen Resistance for mobs higher level to lower resistance. AA
+Shaman - Add Rabid Bear AA and Setup Melee
+Shaman - Add Call of the Ancients Healing Totem ALT
+Shaman - Add Spirit Call ALT
+Bard - Add Fading Memories if Group is dying event
+
+
+
+
+[Medium Priority]
+Shaman - Add Companion Fortification ALT
+Shaman - Consider Spiritual Channeling ALT
+Bard - Add Disease / Poison cure Aria of Asceticism
+Bard - Add Curse Cure (Aura of innocence)
+Bard - Add Bard stun Bombastic Below ? 5 min recast
+Bard - Add AoE slow / Snare ?
+Bard - Add Song of Dawn ( aggro reducer)
+Bard - Add amplificaton?  Depends on songs singing...
+Bard - Add pacify for pulliung assistance ?
+Cleric - Determine is Eradicate Curse (fast) is needed more that cure greater curse (slow)
+SK - Add Leechtouch aa Working?
+Add Foodspells / Autofeed
+Cleric - Consider Word of Restoration
+Cleric - Consider Eradicate Disease
+Cleric - Consider adding Elixir of Divinity Group Hots when the time comes.
+Cleric - Consider adding Desperate Renewal heal ( cures p/d/c as well) slow recast
+Cleric - Add mark of the blameless (reverse DS)
+bard - Consider adding in 	Verse of Vesagran  mitage and stat increase.
+
+[Very Low Priority]
+All - Get / Add breath weapon ( not worth the effort )
+Bard - add Song od suss for downtime food. ( not enought free gems)
+Cleric - Add wake of tranquility AOE pacify
+Cleric - Add undead nukes. / epitath of life dot
+Cleric - Add AoE stun ?
+Cleric - Add Annul Magic ?
+Cleric - Consider Mark of Kings ( revers ds heal on mob)
+Cleric - Consider longer lasting aegis for AC ?
+Cleric - Enforced Reveverience Stun ?
+Cleric - Consider adding Puratus to block incomming poison spell
+Sham - Consider Avatar needs emeralds
+Cleric - Balikor's Mark  Group Symbol
+Sham - Add Group Hot when spell slots enought
+wiz - consider adding Trap rune again.. 
+
+
+[*Info*]
+Modbot INI
+Radius = the max the toon will "See" thiings
+ACLeash = the max a toon will engage things
+
+/alt on [1-100]
+
+Drunken Master Modbot (drinking skill increase) https://www.macroquest2.com/phpBB3/viewtopic.php?p=175710#p175710
+

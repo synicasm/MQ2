@@ -1,0 +1,113 @@
+#turbo
+
+Sub Main
+   /mqclear
+   /echo ${Time.Time12} ]> BlackOp SpellSkills v0.04 <[ Lvl: ${Me.Level} ${Me.Class} ]>
+   /declare Priests string outer Cleric,Druid,Shaman
+   /if (${Me.Class.CanCast}) {
+      /if (${Me.Class.PureCaster} && (${Me.Level} >= 20) || (${Priests.Find[${Me.Class}]} && ${Me.Level} >=30)) {
+         /declare INIERROR bool 0
+         /declare SFMSG string
+         /declare PRISPEC string outer ${Ini[SpellSkills.ini,${MacroQuest.Server}_${Me},PRISPEC]}
+         /if (${Me.AltAbility[Secondary Forte]}) {
+            /declare SECFORT string outer ${Ini[SpellSkills.ini,${MacroQuest.Server}_${Me},SECFORT]}
+         }
+         /if (!${Select[${PRISPEC},Abjure,Alteration,Conjuration,Evocation,Divination]}) {
+           | /ini "SpellSkills.ini" "${MacroQuest.Server}_${Me}" "PRISPEC"
+            /varset INIERROR 1
+         }
+         /if ((${Defined[SECFORT]}) && (!${Select[${SECFORT},Abjure,Alteration,Conjuration,Evocation,Divination]})) {
+            /ini "SpellSkills.ini" "${MacroQuest.Server}_${Me}" "SECFORT"
+            /varset INIERROR 1
+         }
+         /if (${INIERROR}) {
+            /echo Error reading Primary Specialization/Secondary Forte data.
+            /echo Please fill in SpellSkills.ini entries for ${MacroQuest.Server}_${Me}.
+            /end
+         } else {
+            /declare SpecSkillCap int outer
+            /if (${Defined[SECFORT]}) /varset SFMSG Secondary Forte <[ ${SECFORT} ]>
+            /echo ${Time.Time12} ]> Primary Specialization <[ ${PRISPEC} ]> ${SFMSG}
+         }
+      } else {
+         /echo <[ Lvl: ${Me.Level} ]> Too Young for Spell Specializations.
+      }
+      /declare SpellsArray[5] string
+      /declare C int
+      /varset SpellsArray[1] ${Ini[SpellSkills.ini,${Me.Class.ShortName},ABJ]}
+      /varset SpellsArray[2] ${Ini[SpellSkills.ini,${Me.Class.ShortName},ALT]}
+      /varset SpellsArray[3] ${Ini[SpellSkills.ini,${Me.Class.ShortName},CON]}
+      /varset SpellsArray[4] ${Ini[SpellSkills.ini,${Me.Class.ShortName},DIV]}
+      /varset SpellsArray[5] ${Ini[SpellSkills.ini,${Me.Class.ShortName},EVO]}
+      /for C 1 to 5
+         /call PracticeSpell "${SpellsArray[${C}]}"
+      /next C
+      /echo Spell Practicing Complete.
+      /camp desktop
+   } else {
+      /echo Silly ${Me.Class}!!! You have no spells to practice!!!
+   }
+/return
+
+Sub PracticeSpell(string SpellName)
+   /declare SpellSkill string local ${Spell[${SpellName}].Skill}
+   /if (${Me.Class.PureCaster} && (${Me.Level} >= 20) || (${Priests.Find[${Me.Class}]} && ${Me.Level} >=30)) {
+      /declare SpecSpellSkill string local ${SpellSkill}
+      /if (${SpecSpellSkill.Equal[Abjuration]}) /varset SpecSpellSkill Abjure
+      /call SetSpecSkillCap ${Spell[${SpellName}].Skill}
+   }
+   /if ((${Me.Skill[${SpellSkill}]} < ${Skill[${SpellSkill}].SkillCap}) || ((${Me.Class.PureCaster}) && (${Me.Skill[Specialize ${SpecSpellSkill}]} < ${SpecSkillCap}))) {
+      /declare SkillMsg string local ]> Practicing ${Spell[${SpellName}].Skill} <[ ${Me.Skill[${SpellSkill}]} : ${Skill[${SpellSkill}].SkillCap} ]>
+      /if (${Me.Class.PureCaster}) /varset SkillMsg ${SkillMsg} Specialization <[ ${Me.Skill[Specialize ${SpecSpellSkill}]} : ${SpecSkillCap} ]>
+      /echo ${Time.Time12} ${SkillMsg}
+      /memspell 5 "${SpellName}"
+      /if (${Me.Pet.ID}) {
+         /target ${Me.Pet}
+      } else {
+         /target ${Me}
+      }
+    :PracticeLoop
+      /doevents
+      /delay 10s (${Me.SpellReady[${SpellName}]})
+      /delay 1s
+      /cast "${SpellName}"
+      /delay 1s
+      /delay 6s (!${Me.Casting.ID})
+      /delay 1s
+      /if (${Select[${Cursor.Name}, Summoned: Coldlight, Summoned: Light Globe, Summoned: Black Bread, Summoned: Halo of Light]}) /destroy
+      /if ((${Me.CurrentMana} < ${Spell[${SpellName}].Mana}) || (${Me.PctHPs} < 20)) /call MedTime "${SpellName}"
+      /if ((${Me.Skill[${SpellSkill}]} < ${Skill[${SpellSkill}].SkillCap}) || ((${Me.Class.PureCaster}) && (( ${Me.Level} > 19) && (${Me.Skill[Specialize ${SpecSpellSkill}]} < ${SpecSkillCap})))) /goto :PracticeLoop
+   }
+   /declare MaxMsg string local ]> ${Spell[${SpellName}].Skill} MAXXED! <[ ${Me.Skill[${SpellSkill}]} : ${Skill[${SpellSkill}].SkillCap} ]>
+   /if (${Me.Class.PureCaster} && (${Me.Level} >= 20) || (${Priests.Find[${Me.Class}]} && ${Me.Level} >=30)) /varset MaxMsg ${MaxMsg} Specialization <[ ${Me.Skill[Specialize ${SpecSpellSkill}]} : ${SpecSkillCap} ]>
+   /echo ${Time.Time12} ${MaxMsg}
+   /delay 2s
+/return
+
+Sub MedTime(string SpellName)
+   /echo ${Time.Time12} ]> ${Spell[${SpellName}].Skill} <[ ${Me.Skill[${Spell[${SpellName}].Skill}]} ]> Medding/Regenerating
+ :MedLoop
+   /if (${Me.Standing}) /sit
+   /delay 10s ((${Me.PctMana} == 100) && (${Me.PctHPs} == 100))
+   /if ((${Me.PctMana} < 100) || (${Me.PctHPs} < 100)) /goto :MedLoop
+   /echo ${Time.Time12} ]> ${Spell[${SpellName}].Skill} <[ ${Me.Skill[${Spell[${SpellName}].Skill}]} ]> Resuming Spell Practice
+/return
+
+sub SetSpecSkillCap(string SpellSkill)
+   /if (${SpellSkill.Equal[Abjuration]}) /varset SpellSkill Abjure
+   /if (${SpellSkill.Equal[${PRISPEC}]}) {
+      /varset SpecSkillCap ${Skill[Specialize ${SpellSkill}].SkillCap}
+   } else /if (${SpellSkill.Equal[${SECFORT}]}) {
+      /if (${Me.Level} > 70) {
+         /varset SpecSkillCap ${Math.Calc[((${Me.Level} - 70) * 5) + 100]}
+      } else {
+         /varset SpecSkillCap 100
+      }
+   } else {
+      /if (${Me.Level} > 70) {
+         /varset SpecSkillCap ${Math.Calc[((${Me.Level} - 70) * 5) + 50]}
+      } else {
+         /varset SpecSkillCap 50
+      }
+   }
+/return
