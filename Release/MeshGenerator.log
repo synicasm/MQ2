@@ -1,1364 +1,259 @@
-[Trace][08/10/18 17:43:07] Attempting to load corathus.eqg as a standard eqg.
-[Trace][08/10/18 17:43:07] Parsing zone file.
-[Trace][08/10/18 17:43:07] Parsing zone models.
-[Trace][08/10/18 17:43:07] Loading zone models.
-[Trace][08/10/18 17:43:07] Loading model TER_creep.TER.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_switch_rockwall00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_tp_Shrooms_xlg00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_tp_Shrooms_tall00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_tp_Shrooms_med00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_tp_Shrooms_reg01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_tp_Shrooms_reg00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_tp_Shrooms_rsm00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_tp_Shrooms_sm01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_tp_Shrooms_med01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rock00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rock01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rock02_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rock03_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rock04_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_cart00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_D_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_F_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_A_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_B_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_C_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_K_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_J_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_L_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_I_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_G_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_GlowRock_A_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_GlowRock_D_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_GlowRock_B_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_GlowRock_C_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_GlowRock_E_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_GlowRock_F_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_borevent00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_E_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_Tent_H_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_shruinsE_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_shruinsA_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_shruinsC_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_shruinsB_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_shruinsD_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_shruinsF_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_bexhaust_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_borerazor_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_bar_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_shank_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_borerazor_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_borerazor_new02_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_borerazor_new03_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_shank_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_bexhaust_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_borehead_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_gearmain_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_pipes_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_gearB_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_gearB_new02_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_gearA_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_geardark_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_bar_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_gearmain_new02_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_boremack_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_partA_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_partA_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_borehead_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_boremack_new01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rampartstrut00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rampartpllrBk00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rampartfall00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_ramprtbreak00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_gearA_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_gearB_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnome_pipes_new00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rampartwall00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_rampartpllr00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_sporali_mudhut00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnm_towerarm.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnm_tower.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnm_towercap.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnm_towergear.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_gnm_towergparts.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBJ_clockwork_gate.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_tp_Shrooms_med01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_tp_Shrooms_med00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_tp_Shrooms_reg00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_tp_Mushrooms_reg01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_tp_Shrooms_tall00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_tp_Mushrooms_slg03_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_tp_Mushrooms_xlg02_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_bridge00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_bridge01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_bridge02_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_bridge03_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric01_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric02_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric03_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric04_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric05_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric06_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric07_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric08_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric09_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fauxVolumetric10_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_bucketB00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_bucketA00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPumpTubeA00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPumpTubeB00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPump00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPumpSpiketA00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPumpGlass00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPumpWater00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPumpTank00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPumpSpiketB00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_WaterPumpSpiketC00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_ForgeHammerA00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_ForgeBellowA00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_ForgeHammerB00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_ForgeA00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_rafirepit00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_mineVent00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_gnome_sacsngl.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_gnome_shovelB.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_gnome_shovelsq.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_gnome_sacdbl.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_fern00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_wall_trap00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_borevent00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_well_leverA00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_well_leverB00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_well_motorA00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_well_pipeC00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model OBP_well_main00_.MOD.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Parsing zone placeables.
-[Trace][08/10/18 17:43:07] Parsing zone regions.
-[Trace][08/10/18 17:43:07] Parsing zone lights.
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_switch_rockwall00_.MOD at (608.720337, 553.774780, -13.500425)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-38.654964, 1438.333618, -78.128624)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-113.188881, 1475.155273, -97.118530)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-189.923920, 1403.204346, -81.662582)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-203.301407, 1461.514893, -93.315491)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-111.454994, 1371.160400, -103.998917)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-213.102158, 1312.382813, -64.412392)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-185.429932, 1325.288452, -99.883743)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-241.084778, 1182.234863, -49.449532)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-313.561707, 1226.486694, -43.503571)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-321.665466, 1110.175293, -44.817528)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-396.815735, 936.084167, -57.032707)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_xlg00_.MOD at (-395.000000, 864.000000, -57.000000)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-661.925293, 953.390198, -60.641823)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-359.160309, 1172.788696, -38.890015)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-157.958313, 1439.679199, -99.208717)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-90.391106, 1409.311523, -85.084999)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-289.325256, 1211.324341, -75.397057)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-207.210205, 1062.484619, -71.583679)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-426.907959, 1120.608276, -36.892624)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-341.024658, 1138.888062, -49.526917)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-59.497353, 1153.568359, -15.557983)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (267.125244, 1132.292236, -52.141121)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-559.690979, 1231.094482, -49.604500)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-540.797852, 916.326416, -65.239609)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-412.093628, 873.380127, -60.908066)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (-173.588486, 926.076294, -71.995468)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (79.812386, 936.472900, -54.067753)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_tall00_.MOD at (42.340889, 869.250183, -53.476082)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-557.169006, 616.588623, -11.971320)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-353.576111, 1048.593628, -53.510826)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-613.293213, 951.723633, -62.201633)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-386.813232, 1039.824707, -57.204693)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-141.400787, 1033.562378, -60.088074)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-218.476257, 1026.265503, -58.545742)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-154.940491, 1007.160339, -60.374321)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-163.821594, 1072.495361, -57.877373)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-396.723114, 968.181702, -59.776997)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-378.633820, 943.495667, -59.652416)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-313.125336, 902.629639, -59.604237)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-291.218445, 943.495667, -60.520226)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-230.708435, 943.495667, 56.658386)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-129.055023, 992.817200, 42.912834)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-98.644958, 984.227905, 41.674580)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (50.215332, 1007.848450, -38.067608)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (29.063232, 943.495667, -49.846138)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (149.516296, 875.855835, -49.800873)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (-41.354103, -9.890448, -24.888638)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med00_.MOD at (26.210358, 240.062454, -51.264793)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (-211.273605, 1233.380249, -53.221699)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (-47.302143, 1122.519531, -11.193260)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (122.506035, 937.942322, -49.565620)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (197.314102, 986.482239, -26.509714)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (166.185486, 1108.700684, -48.264496)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (-349.663574, 946.150269, -58.257244)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (-386.136475, 803.619080, -59.527538)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (-434.387695, 881.298096, -59.500324)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (-526.475586, 654.779846, -10.499714)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (-622.567261, 894.124878, -58.392532)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (-186.428970, 764.351746, -59.013947)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (180.629303, 706.760681, -58.518242)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg01_.MOD at (221.103851, 910.675293, -50.948212)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-617.077026, 1169.335327, -34.290508)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-308.340424, 1273.501465, -32.408051)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-433.945099, 1344.038330, -70.612473)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-280.232025, 1276.271606, -34.657280)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-125.158287, 1302.645508, -59.358727)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-166.187256, 1270.274658, -58.439594)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-102.817657, 1277.137085, -56.793194)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-12.938354, 1259.217529, -11.638184)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (63.686096, 1277.137085, -11.403492)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-558.719727, 994.425842, -58.791008)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-422.657013, 1153.861084, -24.049679)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-322.346649, 1180.953247, -46.778324)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-343.695068, 1000.505798, -61.675297)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-299.846741, 978.066040, -60.627350)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-140.939880, 1152.545410, -12.250713)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-5.852219, 1022.087646, -36.272377)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-93.622398, 933.202820, -65.686050)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (111.499634, 1015.795410, -42.486145)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (225.727798, 1018.818298, -27.809387)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-707.472473, 1009.346008, -59.736240)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-643.084229, 924.540649, -60.892590)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-651.011841, 862.498535, -63.229942)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-575.643311, 692.804993, -15.711544)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-321.201416, 827.287170, -60.258762)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (189.664459, 818.025635, -48.507355)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (256.687592, 834.987671, -49.777031)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (107.842232, 1025.445679, -44.715111)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (211.527679, 1081.383789, -47.932133)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (21.167778, 1077.990845, -12.994720)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-77.010635, 1110.479614, -11.270905)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (32.258820, 957.809998, -47.052509)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (203.585205, 912.017334, -56.274639)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (-36.800709, 21.599388, -23.225754)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_reg00_.MOD at (87.157806, 68.938431, -26.313725)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_rsm00_.MOD at (-226.015686, 1521.221558, -86.517944)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-794.956787, 357.590942, -51.226467)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-363.549622, 840.372803, -60.248276)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-230.507019, 829.744080, -60.230865)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-115.685059, 782.674072, -59.734169)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-73.745728, 756.861511, -61.120899)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (106.366821, 787.719421, -49.499844)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (98.389343, 892.500916, -49.739555)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (111.280510, 892.365417, -50.312836)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-335.691223, 937.549438, -60.084724)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-476.389191, 642.274109, -12.004997)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-605.667725, 781.965637, -48.447685)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-583.107666, 690.862488, -12.310085)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-228.129089, 996.250916, -60.090710)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-83.990295, 688.347046, -59.938519)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-164.494263, 572.533203, -49.694851)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-535.382446, 669.605103, -11.790966)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-153.487427, 826.378052, -59.918877)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-260.855347, 897.117004, -59.719292)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-10.643372, 605.807983, -27.720181)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-129.689819, 693.856934, -60.334892)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-71.835144, 626.386902, -36.228188)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (5.195801, 824.843567, -49.499844)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-756.824707, 424.381714, -50.045982)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-734.375244, 451.988525, -49.727299)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-673.855591, 489.061035, -34.940308)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-579.931396, 549.165161, -12.830540)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-622.304321, 585.188477, -11.901253)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-613.797241, 351.709320, -49.674278)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-491.728516, 439.841431, -49.499844)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-566.770325, 280.360779, -50.017189)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-508.127625, 451.772583, -49.910511)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-466.176270, 309.647278, -14.490262)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-462.830933, 353.232971, -16.327686)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-283.720581, 224.286011, -13.585258)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-384.483032, 482.356201, -13.779610)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-280.075195, 481.043304, -13.998940)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-342.057983, 349.273987, -14.011723)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-249.833862, 296.373688, -14.614811)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-181.882507, 448.951782, -13.578918)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-251.478271, 359.470917, -14.355038)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-213.077698, 357.591003, -13.764668)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (20.728882, 324.864899, -49.499844)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (35.324879, 362.427032, -50.137741)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-212.821548, 458.535858, -13.143773)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-220.947510, 461.756165, -14.049339)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-3.253662, 450.896210, -42.891289)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-25.696655, 409.473755, -46.648766)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (138.073303, 339.627960, -49.499844)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (40.061340, 402.791687, -50.876720)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (67.795959, 500.576874, -37.800106)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (182.977539, 412.510498, -49.499844)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (216.578247, 441.166290, -49.499844)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-49.812290, 25.757162, -26.103529)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-27.763220, -15.240702, -26.103529)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (-49.242668, 3.701979, -26.103529)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (49.445129, 184.157822, -49.499844)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_sm01_.MOD at (8.958267, 76.836327, -26.103529)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-597.027649, 859.592590, -59.607391)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-566.096558, 954.812317, -60.250183)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-449.636475, 627.222656, -12.072140)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-360.359924, 583.246338, -11.921189)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-350.022461, 621.218994, -12.962578)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-257.493805, 549.854797, -22.953609)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-189.201675, 653.092102, -59.778351)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-200.601440, 621.218994, -49.499847)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-253.870209, 754.785889, -60.661530)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-134.285599, 757.822632, -59.841637)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-95.175438, 736.565247, -60.421112)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (233.946472, 794.263916, -54.585968)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (290.211823, 665.189148, -39.580399)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (306.093231, 678.866577, -41.022171)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-613.126221, 561.926758, -12.523415)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-676.427734, 653.029907, -11.741585)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (155.623016, 592.528015, -50.531532)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-258.673309, 460.713531, -13.773865)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-101.150177, 710.374023, -59.431885)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-24.582050, 628.742737, -19.374847)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (184.316864, 496.511749, -34.140923)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (96.764771, 651.561035, -42.260807)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_tp_Shrooms_med01_.MOD at (-159.788910, 534.393433, -48.675697)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock00_.MOD at (94.733749, 108.914230, -31.076006)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock00_.MOD at (47.591331, 135.623947, -51.051819)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock00_.MOD at (-145.592606, 1321.934814, -87.043243)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock00_.MOD at (-78.357086, 923.341064, -67.925323)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock00_.MOD at (-174.192276, 1435.571045, -93.002769)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock00_.MOD at (-68.311707, 881.110657, -55.746113)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock00_.MOD at (-32.094452, 908.444092, -48.186447)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock00_.MOD at (-116.577522, 1316.097412, -65.824570)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (85.351204, 111.123177, -43.375179)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (80.950638, 90.763306, -28.651104)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (80.012375, 136.317673, -53.153141)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (-230.165222, 1348.072632, -69.367477)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (-88.861221, 1360.993774, -77.438675)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (-203.684937, 1360.993774, -72.541046)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (-69.753960, 913.926392, -59.143536)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (-107.522163, 1390.017700, -81.731873)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock01_.MOD at (86.450447, 99.944298, -28.651104)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (75.758919, 108.819153, -32.999233)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (71.589455, 121.978096, -50.372646)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (73.907211, 148.065353, -49.859962)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (-119.464813, 1357.423096, -89.614944)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (-81.120575, 894.057251, -72.972046)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (-137.711288, 891.084290, -63.716724)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (-174.938858, 1353.330444, -70.961800)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (0.836285, 924.620300, -47.256706)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock02_.MOD at (-165.286865, 1271.846069, -57.837757)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock03_.MOD at (80.101952, 110.890457, -42.034176)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock03_.MOD at (91.083763, 132.078827, -47.682953)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock03_.MOD at (-172.023880, 1360.465210, -89.651810)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock03_.MOD at (-62.587894, 882.080505, -50.742233)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock03_.MOD at (-117.439293, 1351.539307, -75.496338)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock03_.MOD at (-196.290604, 1482.734253, -87.921051)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock03_.MOD at (-61.032928, 907.965881, -52.248005)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock03_.MOD at (-98.323143, 1485.612549, -95.520332)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (91.243095, 109.783829, -41.888016)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (67.559570, 96.156754, -30.611500)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (59.006134, 70.616081, -28.355400)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (-217.351837, 1373.857056, -76.606476)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (-83.871475, 871.677979, -63.868126)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (-132.965698, 967.718811, -66.879974)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (-85.676102, 1413.975830, -82.540054)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (-194.256500, 1321.813110, -60.668793)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (-20.548300, 887.941895, -52.076458)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rock04_.MOD at (76.100548, 100.380440, -30.611500)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_cart00_.MOD at (-711.022217, 409.502563, -49.319141)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_cart00_.MOD at (-749.672241, 244.338593, -49.357910)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_cart00_.MOD at (-729.051147, 254.458069, -49.334492)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_cart00_.MOD at (-757.220337, 267.830200, -49.316353)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_cart00_.MOD at (-869.597778, 284.093628, -49.353302)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_cart00_.MOD at (-666.791931, 631.063293, -11.448730)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_cart00_.MOD at (-698.213806, 602.511963, -11.472143)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_D_.MOD at (-649.847839, 660.650635, -11.461032)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_F_.MOD at (-669.886353, 672.234741, -11.843197)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_F_.MOD at (-400.709991, 791.534241, -59.588215)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_F_.MOD at (-699.397888, 355.878601, -49.392948)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_F_.MOD at (-334.078400, 847.201965, -59.545647)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_A_.MOD at (-727.652710, 356.886383, -49.294842)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_B_.MOD at (-715.378357, 648.752258, -11.397079)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_C_.MOD at (-661.200195, 640.798218, -11.467059)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_K_.MOD at (-724.493408, 264.168396, -49.458797)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_J_.MOD at (-707.399536, 396.112915, -49.700806)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_L_.MOD at (-692.002014, 379.179016, -49.312592)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_I_.MOD at (-740.402283, 242.641663, -49.295135)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_G_.MOD at (-704.179199, 627.120544, -11.548508)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-601.749207, 1012.187256, -59.867527)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-703.453430, 859.062927, -60.125938)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-526.450195, 1016.035767, -60.473679)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-600.860901, 834.802185, -59.724800)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-853.540161, 397.529419, -50.100590)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-493.048340, 909.742432, -59.716881)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-710.142639, 1048.683105, -59.688042)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-698.552551, 1018.374573, -59.901649)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-852.101379, 1001.171509, -59.662685)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-552.309937, 1291.217529, -35.004013)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-515.351257, 1297.512695, -35.056545)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-504.933228, 1282.628662, -35.147003)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-682.950562, 1165.191650, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-464.663208, 1073.188232, -41.544811)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-461.757324, 1466.729126, -71.403725)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-297.385223, 1472.616211, -71.876617)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_A_.MOD at (-631.294312, 1213.413452, -35.016941)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-607.719360, 1014.744080, -60.354675)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-628.289978, 987.966797, -60.698875)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-720.686829, 964.689697, -60.674950)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-702.270020, 911.403198, -60.214630)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-554.962341, 881.648743, -60.274292)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-709.013062, 899.474548, -60.614937)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-690.310486, 987.966797, -60.411705)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-698.063049, 987.966797, -60.689808)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-858.071533, 1003.728333, -60.580147)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-555.733826, 1296.736328, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-601.076965, 1257.855469, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-463.381958, 1371.972412, -72.115829)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-557.493225, 1250.402832, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-515.122009, 1185.742676, -35.704094)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-387.768616, 1388.947754, -71.434219)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-401.260864, 1460.958252, -72.053513)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-752.030701, 1170.841553, -35.399834)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-692.812683, 1134.604004, -35.207817)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-359.772491, 1044.819458, -55.373260)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_D_.MOD at (-352.970154, 1042.812134, -55.423599)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-613.112000, 1033.237793, -61.180336)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-627.240479, 945.057861, -61.384796)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-596.267700, 832.060974, -60.860176)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-514.557495, 951.466187, -59.975410)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-687.144104, 856.925598, -61.813591)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-743.131531, 962.004761, -61.744423)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-747.664185, 907.613464, -60.741776)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-710.516357, 1041.959961, -60.906693)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-875.275757, 968.781555, -60.408787)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-898.201172, 1013.040466, -61.196861)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-592.274902, 1214.946533, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-600.655945, 1278.949219, -35.742527)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-478.267151, 1221.531006, -36.508930)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-720.918396, 1174.289795, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-484.067932, 1368.144897, -66.276482)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-424.832031, 1416.343262, -72.192764)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-464.131226, 1461.695679, -73.524803)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_B_.MOD at (-543.166077, 1344.918213, -43.159706)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-605.312927, 1032.201416, -62.161381)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-491.552490, 915.416809, -61.599014)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-566.179382, 807.878540, -60.004417)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-708.495789, 860.645752, -62.156853)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-760.947876, 945.464783, -61.963951)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-659.830444, 943.947388, -60.073803)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-742.641479, 888.349670, -61.825928)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-716.502808, 1044.676025, -61.729454)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-866.453735, 964.746887, -62.343117)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-878.505737, 1006.257629, -61.560501)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-463.167358, 1081.161499, -38.275307)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-230.177002, 1500.124634, -89.730560)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-648.184021, 1139.079834, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-555.040527, 1186.911865, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-624.864868, 1213.836060, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-466.460510, 1410.652588, -72.687469)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-469.549377, 1462.430298, -72.901642)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-663.576965, 1137.073364, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_C_.MOD at (-743.819031, 1149.919434, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-605.309204, 1021.161377, -60.156200)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-497.649261, 1028.651611, -59.529591)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-725.058655, 920.692871, -60.628448)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-545.768738, 891.255920, -60.472557)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-764.754883, 889.043884, -60.446983)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-690.790894, 853.519592, -59.995956)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-747.289246, 961.061401, -60.282227)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-766.140442, 943.035278, -60.129433)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-866.734131, 956.705139, -60.846855)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-901.328674, 998.714355, -60.374985)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-237.853409, 1426.778809, -85.109619)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-526.169617, 1244.673584, -35.580666)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-505.928406, 1195.349854, -35.528801)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-405.846313, 1145.952148, -24.434967)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-616.191040, 1140.253784, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-190.198410, 1422.854492, -84.922318)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-509.352478, 1348.321289, -46.342606)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-754.036316, 1137.651733, -35.300583)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-791.273499, 1070.220703, -35.171478)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_E_.MOD at (-384.129364, 1053.089844, -53.503906)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-611.595703, 955.558777, -60.362579)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-637.099792, 902.595215, -60.842667)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-413.279968, 920.515198, -60.456444)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-628.999695, 887.093750, -61.200470)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-638.777344, 841.086365, -60.415810)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-674.878845, 966.241455, -61.268917)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-703.268250, 939.428955, -61.302895)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-698.136536, 966.241455, -60.620651)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-602.134216, 1172.483887, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-679.009094, 1172.198975, -36.613331)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-594.034119, 1156.982422, -35.985535)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-614.048096, 1151.492310, -36.047001)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-627.152771, 1220.524902, -36.108280)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-711.263550, 1156.677002, -36.933411)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-501.018768, 1275.331055, -36.167007)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-441.786896, 862.225525, -61.351753)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-377.784851, 1044.551392, -55.815262)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_GlowRock_F_.MOD at (-211.895477, 831.109253, -61.660622)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_borevent00_.MOD at (-741.469055, 291.479462, -44.212299)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_E_.MOD at (-366.258362, 793.627991, -59.479717)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_E_.MOD at (-427.475800, 823.905151, -59.493393)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_E_.MOD at (-382.200592, 889.987000, -59.457535)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_E_.MOD at (-758.876465, 256.299866, -49.321877)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_Tent_H_.MOD at (-425.471191, 852.249756, -59.637676)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsE_.MOD at (-633.036316, 123.608521, -27.182909)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsE_.MOD at (-448.547882, 1406.622070, -50.081879)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsA_.MOD at (-435.487457, 153.816055, -47.174694)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsC_.MOD at (-522.181519, 188.847015, -36.035336)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsC_.MOD at (-369.477448, 1468.454102, -57.961159)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsB_.MOD at (-534.834167, 131.548645, -36.035336)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsB_.MOD at (-409.572723, 1356.038574, -57.876129)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsD_.MOD at (-484.425201, 120.504448, -40.639797)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsF_.MOD at (-597.877441, 168.286285, -39.874142)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_shruinsF_.MOD at (-330.763489, 1403.241699, -61.583672)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_bexhaust_new00_.MOD at (-828.990295, 343.377319, -37.664898)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_bexhaust_new00_.MOD at (220.403839, 338.680115, -39.237629)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_bexhaust_new00_.MOD at (-406.594818, 843.747803, -47.665913)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borerazor_new00_.MOD at (-827.518005, 279.238617, -45.807030)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borerazor_new00_.MOD at (191.363831, 363.408264, -46.976788)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_bar_new00_.MOD at (-823.430054, 261.467194, -48.558350)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_shank_new00_.MOD at (-833.036133, 295.760590, -45.247643)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_shank_new00_.MOD at (211.639038, 382.693970, -55.354134)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_shank_new00_.MOD at (-357.975830, 837.206543, -55.251389)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borerazor_new01_.MOD at (-786.487366, 340.078186, -35.347027)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borerazor_new02_.MOD at (-790.706848, 348.687042, -37.891434)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borerazor_new02_.MOD at (196.427704, 393.450195, -46.691769)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borerazor_new03_.MOD at (-804.686401, 386.690643, -44.707851)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borerazor_new03_.MOD at (196.730164, 393.106964, -47.944027)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borerazor_new03_.MOD at (-358.867065, 863.255371, -56.562725)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_shank_new01_.MOD at (-788.547058, 347.231750, -34.749767)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_bexhaust_new01_.MOD at (-760.112793, 288.555847, -37.245693)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borehead_new01_.MOD at (-748.158203, 301.917755, -41.482925)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_gearmain_new01_.MOD at (-752.853882, 310.243469, -43.565006)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_pipes_new01_.MOD at (-751.442444, 314.182129, -45.206413)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_gearB_new01_.MOD at (-754.077942, 313.983704, -37.891178)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_gearB_new02_.MOD at (-768.082031, 306.692413, -39.972122)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_gearA_new01_.MOD at (-754.783508, 328.042419, -42.627895)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_gearA_new01_.MOD at (-383.035309, 869.796326, -59.149128)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_geardark_new01_.MOD at (-774.309143, 365.487305, -47.312412)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_geardark_new01_.MOD at (176.808533, 313.914490, -48.623936)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_geardark_new01_.MOD at (-353.887909, 826.423340, -57.084072)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_geardark_new01_.MOD at (-397.507446, 890.247253, -59.055405)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_bar_new01_.MOD at (-777.751404, 373.900299, -48.476227)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_bar_new01_.MOD at (173.366272, 322.396912, -49.050079)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_gearmain_new02_.MOD at (-793.166748, 382.934052, -42.394371)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_boremack_new00_.MOD at (-813.516724, 297.413513, -40.102169)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_partA_new01_.MOD at (-757.046753, 322.664124, -39.561378)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_partA_new00_.MOD at (-807.194275, 321.367798, -49.380669)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borehead_new00_.MOD at (-796.801331, 273.833649, -41.897942)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borehead_new00_.MOD at (163.453918, 332.058594, -42.562473)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_borehead_new00_.MOD at (-380.295990, 814.517212, -52.393238)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_boremack_new01_.MOD at (-768.632263, 322.761902, -39.616463)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartstrut00_.MOD at (-194.921127, 453.753845, -5.473259)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartpllrBk00_.MOD at (-344.266266, 440.995361, 3.852310)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartpllrBk00_.MOD at (-360.598267, 333.217529, 3.852310)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartpllrBk00_.MOD at (-278.444244, 190.104340, 3.852310)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartfall00_.MOD at (-232.858322, 434.759613, -9.098278)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartfall00_.MOD at (-140.627625, 156.746521, -9.098278)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartfall00_.MOD at (-328.116943, 399.464905, -9.098278)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_ramprtbreak00_.MOD at (-316.322540, 243.769440, 2.438892)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_ramprtbreak00_.MOD at (-254.602051, 146.466675, 2.438892)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_ramprtbreak00_.MOD at (-202.835007, 298.721680, 2.438892)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_ramprtbreak00_.MOD at (-348.155487, 259.655640, 2.438892)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_gearA_new00_.MOD at (172.803543, 447.995056, -48.825394)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_gearB_new00_.MOD at (179.230164, 430.836304, -48.641289)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnome_pipes_new00_.MOD at (175.568665, 429.696411, -49.316387)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartwall00_.MOD at (-292.611816, 165.427338, 2.438892)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartwall00_.MOD at (-348.320282, 314.853882, 2.438892)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartwall00_.MOD at (-319.230804, 428.737427, 2.438892)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartpllr00_.MOD at (-305.227173, 140.200531, 4.474380)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartpllr00_.MOD at (-360.935638, 289.627075, 4.474380)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_rampartpllr00_.MOD at (-293.940491, 441.352783, 4.474380)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_sporali_mudhut00_.MOD at (46.175140, 654.119934, -21.168358)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_sporali_mudhut00_.MOD at (73.095306, 835.491150, -28.065914)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_sporali_mudhut00_.MOD at (155.530350, 800.812622, -29.957520)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_sporali_mudhut00_.MOD at (-48.740540, 339.543732, -27.698704)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnm_towerarm.MOD at (-288.290314, 302.938416, -13.537045)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnm_towerarm.MOD at (-288.290314, 302.938416, -13.537045)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnm_towerarm.MOD at (-288.290314, 302.938416, -13.537045)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnm_tower.MOD at (-288.290314, 302.190155, 13.354361)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnm_towercap.MOD at (-288.290314, 302.938416, -13.537045)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnm_towergear.MOD at (-292.471771, 311.353333, -10.290839)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnm_towergear.MOD at (-290.700378, 311.353333, -10.290839)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_gnm_towergparts.MOD at (-287.949738, 315.039551, -12.476712)
-[Trace][08/10/18 17:43:07] Adding placeable OBJ_clockwork_gate.MOD at (-478.615356, 991.070068, -19.897745)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med01_.MOD at (-185.009460, 1203.254761, 48.162582)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med01_.MOD at (-208.282410, 1104.477905, 48.942539)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med01_.MOD at (107.721405, 1102.330566, 39.977333)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med01_.MOD at (80.056511, 1076.021484, 40.121758)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med01_.MOD at (-376.404999, 748.753113, 54.158817)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med01_.MOD at (-132.565460, 716.781677, 44.549576)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med00_.MOD at (-18.846558, 855.388611, 34.182404)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med00_.MOD at (135.468567, 931.685913, 30.506344)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med00_.MOD at (178.297485, 1012.143066, 33.188896)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med00_.MOD at (167.908508, 960.607361, 31.691418)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med00_.MOD at (294.947937, 1031.468994, 29.246643)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med00_.MOD at (-421.909912, 1254.790527, 56.346306)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_med00_.MOD at (-39.339050, 1173.192261, 46.929832)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (47.574860, 1061.019531, 37.099800)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-160.851105, 1066.041992, 44.764328)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (143.605316, 1061.077148, 33.551090)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-621.748535, 1001.794617, 67.058655)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-501.762604, 920.245972, 62.179955)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-633.607178, 669.239563, 42.676483)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-427.643768, 832.627563, 60.993542)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-375.106476, 634.856018, 44.389057)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-256.513794, 743.078552, 51.511986)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-174.412125, 805.993958, 43.771980)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-86.504250, 756.527405, 39.168587)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (179.896851, 729.624146, 34.374481)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (215.273346, 743.704224, 30.330830)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (298.960052, 861.276733, 28.955805)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (329.446381, 660.347656, 35.447109)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-74.490349, 748.184021, 40.602558)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (-242.360245, 806.330566, 46.449600)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (25.962738, 1294.912964, 40.121708)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_reg00_.MOD at (107.181610, 1295.406128, 38.776295)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-59.758896, 785.230713, 41.701164)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-144.268555, 1026.482422, 42.629868)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-99.073090, 893.249023, 36.578182)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-113.428413, 1279.905640, 51.060738)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (118.451591, 1197.071411, 38.477646)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-502.711090, 1008.789368, 64.436096)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-465.689911, 1047.005249, 66.296967)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-393.236176, 1228.643921, 54.091785)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-144.862732, 1057.900635, 42.444416)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (-578.835083, 766.470947, 50.059772)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_reg01_.MOD at (180.966232, 760.399109, 31.684200)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-238.857590, 1383.198608, 45.263718)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-380.765045, 1338.856445, 51.476189)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-442.700134, 1484.810059, 63.976822)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-288.961731, 1296.848877, 47.847481)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-423.152832, 1203.279419, 55.217323)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-486.264648, 1389.321777, 65.430000)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-358.909515, 1456.827881, 55.738686)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-293.765900, 1389.884277, 45.022388)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-95.613403, 1533.504272, 32.736427)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-78.442688, 1312.884155, 41.813282)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-18.358870, 1364.402954, 36.243866)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (50.167068, 1395.813721, 34.327591)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-27.473675, 1411.479736, 29.447029)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-56.170929, 1202.455078, 47.150612)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (125.041382, 1258.640869, 40.272408)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (113.428032, 1224.068604, 43.912834)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-131.468613, 1207.498169, 52.444950)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-476.632507, 1239.292725, 55.343117)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (4.210754, 1193.741211, 41.872307)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (162.098541, 1167.154297, 35.524200)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (208.971436, 1191.051392, 35.817818)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-299.799500, 1061.835083, 58.379280)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-530.133728, 1155.291748, 71.485420)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-642.031128, 1161.204224, -34.994076)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-202.796173, 1137.452393, 50.563625)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (47.322247, 1138.153320, 41.180565)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (186.263092, 1113.903931, 36.161026)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (297.097931, 1061.462280, 29.842422)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-696.218750, 1017.081421, 59.160618)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-263.081390, 858.335327, 51.707787)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (-60.953979, 893.891357, 36.937126)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Shrooms_tall00_.MOD at (235.860229, 896.289246, 33.117290)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (82.632904, 1329.130859, -41.519974)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (51.678848, 1188.239380, -43.000282)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (107.147049, 1126.713379, -56.380913)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (-78.473938, 1233.294800, -31.383110)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (-24.245777, 1086.144653, -33.339161)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (-101.301453, 1026.921875, 44.782333)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (-155.631027, 1119.108154, -24.990829)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (-324.070862, 1347.983032, -38.795738)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (-270.058289, 1006.639587, -34.636890)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (-417.402130, 1286.890747, -39.892330)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (-231.677765, 912.933228, -29.872313)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_slg03_.MOD at (198.067261, 1041.647461, -67.383148)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_xlg02_.MOD at (267.951691, 969.391724, -42.274651)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_xlg02_.MOD at (-76.184601, 832.225708, -13.225542)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_xlg02_.MOD at (-487.691467, 832.155273, -25.853447)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_xlg02_.MOD at (-297.396667, 750.292969, -16.089138)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_xlg02_.MOD at (45.810791, 756.363953, -32.217609)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_tp_Mushrooms_xlg02_.MOD at (278.886627, 745.945923, -48.300739)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bridge00_.MOD at (-288.073761, 1154.541016, -44.882141)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bridge01_.MOD at (52.528900, 290.255554, -48.078766)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bridge02_.MOD at (21.189579, 562.221985, -30.010048)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bridge03_.MOD at (222.707840, 857.518738, -48.494129)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric00_.MOD at (-139.357727, 960.536377, 249.212097)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric01_.MOD at (140.324661, 2700.780518, 157.560669)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric02_.MOD at (-156.574509, 2633.176025, -204.890991)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric03_.MOD at (-356.195679, 2562.950195, -171.368271)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric04_.MOD at (-712.058838, 1695.063354, -0.000062)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric05_.MOD at (233.600159, 1574.003662, 88.098152)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric06_.MOD at (-389.203003, 1042.890015, 239.987549)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric07_.MOD at (77.572647, 359.183411, 217.072144)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric08_.MOD at (165.623657, 377.852051, 134.751297)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric09_.MOD at (-331.814484, 284.240662, 142.449524)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fauxVolumetric10_.MOD at (94.121468, -73.375748, 87.408676)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketB00_.MOD at (-712.711792, 353.386353, -49.475040)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketB00_.MOD at (-723.498718, 273.893311, -49.451908)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketB00_.MOD at (-644.690796, 654.095642, -11.599999)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketB00_.MOD at (-869.139709, 294.838074, -49.452553)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketB00_.MOD at (-675.007629, 665.660767, -11.582359)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketB00_.MOD at (-665.951660, 666.022156, -11.592584)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketB00_.MOD at (-686.531250, 370.389526, -49.446968)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketA00_.MOD at (-707.831421, 381.463928, -49.322689)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketA00_.MOD at (-749.011292, 406.762573, -49.369041)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketA00_.MOD at (-740.678162, 268.342926, -49.319817)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketA00_.MOD at (-867.873352, 380.741119, -49.318623)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketA00_.MOD at (-866.768433, 290.750305, -49.327351)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketA00_.MOD at (-655.288757, 644.586731, -11.464150)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_bucketA00_.MOD at (-698.998474, 614.228394, -11.480817)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPumpTubeA00_.MOD at (203.753098, 220.651703, -46.647633)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPumpTubeB00_.MOD at (207.168167, 217.616058, -49.549625)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPump00_.MOD at (203.753098, 220.651703, -46.647633)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPumpSpiketA00_.MOD at (210.712250, 219.539520, -44.003109)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPumpGlass00_.MOD at (210.701447, 219.595795, -46.402561)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPumpWater00_.MOD at (210.701447, 219.595795, -46.616978)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPumpTank00_.MOD at (210.705109, 219.595734, -49.306084)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPumpSpiketB00_.MOD at (210.688049, 219.562469, -44.634933)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_WaterPumpSpiketC00_.MOD at (210.688049, 219.562469, -44.634933)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_ForgeHammerA00_.MOD at (-561.652100, 579.470032, -11.189975)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_ForgeBellowA00_.MOD at (-548.879395, 576.891663, -11.583793)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_ForgeHammerB00_.MOD at (-554.818970, 565.513855, -11.189974)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_ForgeA00_.MOD at (-551.797119, 575.147217, -11.201409)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_rafirepit00_.MOD at (-709.936523, 373.404480, -49.392433)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_rafirepit00_.MOD at (-741.982971, 258.950378, -49.505478)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_rafirepit00_.MOD at (-662.071716, 657.665649, -11.565917)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_rafirepit00_.MOD at (-380.322144, 836.372070, -59.683952)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_rafirepit00_.MOD at (89.548553, 636.199036, -40.900063)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_rafirepit00_.MOD at (99.521027, 787.321411, -49.516376)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_rafirepit00_.MOD at (-14.952353, 309.831207, -49.420094)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-325.472198, 156.500137, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-276.259766, 156.500137, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-225.374954, 156.500137, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-276.259766, 131.150360, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-301.075317, 181.779312, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-251.026123, 181.779312, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-325.472198, 207.038712, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-276.259766, 207.038712, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-325.472198, 232.278320, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-276.259766, 232.278320, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-325.472198, 257.592804, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-351.252258, 257.592804, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-200.185013, 257.592804, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-225.965042, 257.592804, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-175.788147, 232.165955, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_mineVent00_.MOD at (-200.185013, 206.759033, -13.748622)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacsngl.MOD at (-789.803162, 904.235901, -58.763454)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacsngl.MOD at (-789.945923, 901.925781, -59.243793)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacsngl.MOD at (-698.327148, 1177.250488, -33.989563)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacsngl.MOD at (-697.733154, 1177.029053, -34.810951)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacsngl.MOD at (-697.733154, 1177.112305, -33.115635)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacsngl.MOD at (-707.131409, 1164.958618, -34.374279)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_shovelB.MOD at (-787.399902, 895.959290, -57.101822)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_shovelsq.MOD at (-801.297607, 925.307129, -59.740318)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacdbl.MOD at (-794.487793, 903.286072, -58.921894)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacdbl.MOD at (-797.626892, 943.147461, -59.311413)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacdbl.MOD at (-701.993042, 1176.746948, -34.662807)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacdbl.MOD at (-714.397278, 1174.220825, -34.504841)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacdbl.MOD at (-709.126526, 1175.197510, -33.178608)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_gnome_sacdbl.MOD at (-709.126526, 1175.241699, -34.650307)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (24.720348, -20.990429, -25.080196)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (87.566086, 62.386623, -25.361887)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (65.435005, 181.881241, -49.798565)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (75.436958, 207.637543, -49.824993)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (140.694992, 241.789581, -49.401253)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (149.931656, 284.226318, -49.340500)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (137.146698, 271.607239, -49.368416)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (122.807159, 406.772766, -51.415115)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (117.919617, 394.057617, -50.639317)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (236.385452, 204.217133, -49.366646)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (93.326996, 514.116821, -35.864403)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (66.601776, 490.737366, -37.638336)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (285.119659, 536.529175, -33.231342)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (313.416931, 543.019043, -33.413391)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (387.304321, 624.968384, -33.421181)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (211.931122, 673.904236, -46.515938)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (198.896912, 648.952637, -42.765335)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (160.926025, 737.190308, -49.079052)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (27.299988, 259.482208, -49.824711)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (35.160339, 267.544159, -49.855545)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (19.439606, 308.619598, -49.916531)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (21.011688, 322.969940, -49.916531)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-52.875671, 321.599457, -48.530895)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-78.028809, 455.427124, -41.237202)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-8.857666, 427.331543, -44.655830)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-30.830551, 538.438782, -41.333118)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (33.819542, 612.021851, -39.659718)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (110.619781, 616.988281, -41.057541)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (61.027737, 665.947815, -39.977886)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-115.758514, 188.216064, -13.899348)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-127.088882, 173.718735, -14.103117)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-166.064789, 248.358063, -14.018335)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-173.925140, 330.307465, -13.299404)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-161.348602, 354.090118, -13.299404)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-255.672882, 126.341370, -15.824965)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-310.201874, 204.061356, -13.318811)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-268.249481, 486.749054, -12.921402)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-193.641663, 119.553299, -18.580112)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-357.137115, 220.364960, -13.263117)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-316.944519, 323.714386, -12.409458)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-334.545197, 445.641541, -12.892680)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-330.411896, 464.633545, -13.042014)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-438.884827, 370.508331, -24.080881)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-404.299255, 361.275116, -14.340178)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-534.781189, 367.762634, -49.915180)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-523.776672, 441.849060, -48.846962)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-563.078491, 416.895020, -48.990185)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-691.988281, 365.215851, -48.833607)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-699.848633, 340.460999, -49.055916)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-591.375732, 469.570068, -42.980034)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-577.227112, 539.476135, -12.168675)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-515.896973, 594.653992, -10.642665)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-742.294617, 511.041382, -24.175619)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-756.443237, 517.528809, -24.523104)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-798.889160, 465.849609, -42.928246)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-695.132446, 565.089233, -10.769314)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-508.055969, 667.473145, -11.188561)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-434.168610, 562.343506, -10.957553)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-668.686523, 694.827637, -12.220871)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-553.646057, 715.432068, -15.629340)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-539.497375, 838.252625, -59.441975)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-552.073975, 821.159058, -59.273331)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-553.646057, 866.948242, -59.305008)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-643.254089, 821.557434, -58.891235)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-652.642883, 833.320374, -58.962494)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-148.203674, 553.077393, -48.666763)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-86.892822, 619.334290, -39.218536)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-8.289307, 666.726257, -14.566654)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-439.036865, 843.028076, -58.791851)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-395.545258, 835.639343, -58.793980)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-450.258667, 867.068970, -60.516602)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-256.556213, 758.777710, -58.970783)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-229.830994, 784.160767, -58.825073)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-242.407532, 752.949158, -58.796005)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-188.957153, 684.007935, -59.294724)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-201.533691, 588.341370, -46.035530)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-276.993103, 917.134216, -58.819916)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-261.272400, 904.787476, -58.819756)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-278.565186, 895.584961, -59.034325)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-396.470551, 994.855347, -59.312817)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-374.461548, 980.936523, -59.033455)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-333.587708, 831.819580, -58.876778)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-425.891510, 918.443909, -58.969028)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-506.515564, 948.612671, -59.107361)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-740.754150, 945.698364, -58.999500)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-737.609985, 966.365234, -59.290855)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-721.889282, 943.013916, -59.290855)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-618.873047, 1017.131165, -59.928345)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-583.547058, 1017.361084, -59.159042)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-589.835327, 1001.870239, -59.171047)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-566.254272, 1168.739624, -34.601833)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-548.961487, 1189.406494, -34.702667)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-561.538086, 1191.208252, -34.609581)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-466.229187, 1047.367065, -54.097759)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (137.668488, 1289.384766, -31.026661)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (220.804733, 1169.862793, -48.762119)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (35.483856, 1139.213867, -11.242972)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-114.068420, 1188.550293, -10.937743)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-99.714294, 1193.412231, -11.189807)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (6.008635, 88.190514, -25.069777)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-16.394501, -3.758179, -25.062603)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-28.971069, 7.620117, -24.894457)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (-94.954041, 1107.579590, -11.284019)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (187.431488, 832.759949, -49.217453)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (175.203644, 837.773804, -49.232330)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (81.827362, 988.765259, -38.895168)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (87.385498, 1001.860352, -37.632122)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (95.166840, 988.276306, -37.483189)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (184.096619, 1078.073242, -48.738255)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (198.547729, 1066.712646, -48.696182)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (300.816986, 1150.951538, -49.091339)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (286.365906, 1079.563110, -48.835442)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (324.161072, 1099.327881, -48.719997)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (354.174866, 1077.962646, -48.688633)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (333.054047, 1059.932129, -47.827652)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (250.793976, 999.660095, -26.139526)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (231.896393, 946.057739, -42.294388)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (240.789368, 953.594666, -38.992466)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (239.677734, 931.117737, -47.820313)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (281.919434, 891.966492, -48.674976)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (293.035645, 853.926880, -48.692970)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (395.304901, 868.133545, -48.714184)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_fern00_.MOD at (93.820023, 880.488953, -49.056343)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (54.209465, 496.131409, 28.975721)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (96.490860, 514.905457, 31.444901)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-60.099350, 909.244263, 21.163248)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-81.580025, 936.581177, 29.388371)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-98.167999, 894.828369, 31.057583)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-111.938683, 198.530380, 25.049574)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-109.305260, 202.409256, 17.196442)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-113.585625, 212.863342, 13.343787)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (20.930832, 444.521210, 18.887592)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (39.139301, 441.231598, 19.760683)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (30.066629, 441.992065, 29.915890)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-278.075562, 1565.175293, 38.365398)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-264.830872, 1531.932495, 35.089600)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-243.587204, 1508.016968, 28.979259)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-282.998444, 1523.904663, -15.159996)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-33.000000, 1256.481689, 28.382036)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (193.407669, 1219.027344, 28.407692)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (213.104767, 1178.509399, 26.418594)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (166.163498, 1216.261719, 32.913773)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (181.892136, 1249.554688, 27.950701)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (167.835129, 1267.427856, 27.950701)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (385.082520, 885.356750, 13.054667)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (398.693573, 817.170532, 20.466356)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (419.311371, 810.218384, -10.210150)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-48.699009, 881.427612, 3.170260)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (28.999996, 1156.949219, 37.371742)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-8.959091, 1166.569702, 34.762161)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (36.972725, 1130.401367, 30.728010)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-82.854347, 1189.786499, 39.534302)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-108.483238, 1195.400024, 35.377144)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (-65.178123, 1174.901855, 33.101906)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (223.919907, 747.000000, 22.670071)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (248.147354, 726.508667, 1.271470)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (55.036808, -26.040779, 1.700869)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (69.927483, -11.353867, 4.738209)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (32.283131, -37.023567, 0.849503)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (98.142715, 136.497772, 22.629009)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (217.404785, 183.450958, 24.292036)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (230.434769, 241.314362, 34.712971)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (239.268707, 245.893616, 20.338245)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (52.776440, 250.278458, 30.469221)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (36.016830, 257.295197, 34.497501)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (360.466888, 1076.048584, 10.811934)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (373.096832, 1079.122192, -4.363276)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (377.353668, 1080.738770, -13.005140)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (333.469452, 1064.593872, 20.907885)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (340.465668, 1066.281372, 20.907885)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (368.625641, 670.443909, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (326.721466, 704.143921, 26.485577)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (331.304535, 669.843506, 24.703678)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (343.383667, 696.256531, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (346.341003, 675.307617, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (359.753906, 640.578735, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (333.814575, 577.627686, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (382.880066, 634.594055, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (403.114868, 629.820923, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (391.212799, 646.154846, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (373.215851, 612.517700, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (390.678589, 616.930786, 30.882225)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (332.551849, 744.248657, 21.304337)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (320.256683, 759.986389, 28.248089)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (211.904114, 625.445374, 26.465906)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (152.601837, 599.085999, 30.398315)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (176.508026, 614.899109, 30.398315)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_wall_trap00_.MOD at (186.677078, 646.210083, 6.658401)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_borevent00_.MOD at (-782.091675, 243.622208, -48.238758)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_borevent00_.MOD at (179.307068, 335.490784, -48.697411)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_borevent00_.MOD at (-419.355835, 811.173462, -58.456429)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_leverA00_.MOD at (75.143509, 327.952576, -45.105904)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_leverA00_.MOD at (100.624046, 404.157410, -44.436153)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_leverA00_.MOD at (137.689651, 368.316040, -52.209560)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_leverA00_.MOD at (138.306229, 310.725250, -44.994114)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_leverB00_.MOD at (80.639923, 327.955017, -45.970566)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_leverB00_.MOD at (103.260269, 399.334442, -45.300816)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_leverB00_.MOD at (140.874786, 372.795471, -53.074223)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_leverB00_.MOD at (141.132019, 306.010864, -45.858776)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_motorA00_.MOD at (75.975571, 325.684448, -49.521393)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_motorA00_.MOD at (99.032097, 402.340149, -48.851643)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_motorA00_.MOD at (140.020020, 367.678741, -56.625050)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_motorA00_.MOD at (136.787750, 308.846161, -49.409603)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_pipeC00_.MOD at (77.082886, 330.205078, -49.826279)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_pipeC00_.MOD at (103.530449, 403.534729, -49.156528)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_pipeC00_.MOD at (136.979050, 371.202209, -56.929935)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_pipeC00_.MOD at (141.235092, 310.218536, -49.714489)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_main00_.MOD at (77.085724, 330.202942, -48.459473)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_main00_.MOD at (103.529938, 403.531219, -47.789722)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_main00_.MOD at (136.982437, 371.203278, -55.563129)
-[Trace][08/10/18 17:43:07] Adding placeable OBP_well_main00_.MOD at (141.234711, 310.214996, -48.347683)
-[Trace][08/10/18 17:43:07] Loading model obj_lever.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_transbase.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_cog_giant.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_coils.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_transfurnace.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_hive_decor_vent_large.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_underfoot_portalgun.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_underfoot_portaldisc.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_switch_rockwall00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_shruinsa_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_shruinsb_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tent_a_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tent_g_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_fern00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_gnome_pipes_new01_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_gnome_sacdbl.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tent_e_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tp_shrooms_med00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_ramprtbreak00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tent_f_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tent_c_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tp_shrooms_med01_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tent_k_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tent_l_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_rampartpllr00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_rampartpllrbk00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tp_shrooms_reg01_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tp_shrooms_tall00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_tp_mushrooms_xlg02_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_tp_shrooms_med01_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tp_shrooms_sm01_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_rampartfall00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_tp_shrooms_med00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_tp_mushrooms_slg03_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tent_b_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_tp_shrooms_reg00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_gnome_sacsngl.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_gnome_shovelb.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_gnome_bar_new01_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_borevent00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_gnome_gearb_new01_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_shruinsc_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_shruinsd_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obj_shruinsf_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_tp_mushrooms_reg01_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_tp_shrooms_reg00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
-[Trace][08/10/18 17:43:07] Loading model obp_tp_shrooms_tall00_.mod.
-[Trace][08/10/18 17:43:07] Parsing model materials.
-[Trace][08/10/18 17:43:07] Parsing model geometry.
+[Trace][08/14/18 19:23:45] Attempting to load direwind.eqg as a standard eqg.
+[Warn][08/14/18 19:23:45] Unable to parse the zone file, is a eqgv4.
+[Trace][08/14/18 19:23:45] Attempting to load direwind.eqg as a v4 eqg.
+[Trace][08/14/18 19:23:45] Parsing zone file.
+[Trace][08/14/18 19:23:45] Parsing zone data file.
+[Error][08/14/18 19:23:46] Header info for ascent.dat.eqg v4 20 0 5
+[Trace][08/14/18 19:23:46] Parsing zone terrain tiles.
+[Trace][08/14/18 19:23:46] Loading model obj_pinetree_bare.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_rocks_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_ascent_bridge.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_rocks_d.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_druid_ring_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_rocks_waterfall_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_rocks_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_d.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_direwind_tent_d.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_d.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_pracdummy.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_g.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_direwind_tent_g.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_g.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_roastingpit.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file bcave.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_blue_shroom_large_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_blue_shroom_large_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_blue_shroom_large_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_blue_shroom_small_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_blue_shroom_small_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_blue_shroom_small_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_purp_shroom_large_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_purp_shroom_large_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_purp_shroom_large_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_purp_shroom_small_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_purp_shroom_small_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_purp_shroom_small_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_orange_shroom_small_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_orange_shroom_small_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_orange_shroom_small_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_orange_shroom_large_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_orange_shroom_large_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_orange_shroom_large_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_green_shroom_small_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_green_shroom_small_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_green_shroom_small_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_green_shroom_large_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_green_shroom_large_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_green_shroom_large_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fcave_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fcave_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fcave_d.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fcave_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fcave_e.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fcave_f.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_cookfire_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_e.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_direwind_tent_e.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_c.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_direwind_tent_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_nest.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_egg_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_small_bridge_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_stakes.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_b.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_direwind_tent_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_a.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_direwind_tent_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_ek_bones_k.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_ek_bones_f.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_ek_bones_e.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_g.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_ek_bones_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_watchtower_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_black_gate.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_ek_bones_l.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file bear_cave.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_fungal_entrance_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fungal_c.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fungal_d.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fungal_entrance_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fungal_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_fungal_b.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_ek_bones_h.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_dragonmonolith.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_steps_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_f.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_direwind_tent_f.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_wall_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_a.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_crate_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obp_lava_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_b.tog.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_b.tog.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_e.tog.
+[Trace][08/14/18 19:23:46] Loading model obj_rocks_d_lod1.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obp_waterfall_.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_rocks_a.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loaded tog file direwind_tent_c.tog.
+[Trace][08/14/18 19:23:46] Parsing water data file.
+[Trace][08/14/18 19:23:46] Adding finite water sheet.
+[Trace][08/14/18 19:23:46] Adding finite water sheet.
+[Trace][08/14/18 19:23:46] Parsing invisible walls file.
+[Trace][08/14/18 19:23:46] Loading model obj_direwind_tent_e.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_cookfire_1.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_barrel_1.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
+[Trace][08/14/18 19:23:46] Loading model obj_bridge.mod.
+[Trace][08/14/18 19:23:46] Parsing model materials.
+[Trace][08/14/18 19:23:46] Parsing model geometry.
