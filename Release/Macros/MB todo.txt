@@ -1,9 +1,22 @@
 TODO
 
 [High Priority]
+SK - Consider Blackthorn Bite ( Lifetap and mana ) and Bond of the blackthourn ( hp over tiem tap )
+SK - Figure out how to add Challenge of Power ( need spell slots) or swap out other hate sepll ?
+SK - Add Amplify Death and Shambling minion Pet
+SK - Dark bargin, figure out how to drop the illusion part. Block it ?
+SK - ADD Soul Carapace ability
+SK - Change Dread Gaze spell to vilify, gem3 to Terror of Vergalid
+SK - ADD touch of the wailing Three when we have gem slots
+SK - Add 	Remorseless Demeanor  when we have spell slots
+SK - COnsider Last Breath FD... maybe Combine with Deathpeace AA and save a spell slot?
 Working ? - Shaman - Add Ancestral Guard ALT
 working ? - Shaman - Add Union of Spirits ALT
 Working ? - Shaman - Add Ancestral Aid ALT
+BARD - Consider using 72/73 song inplace of errik's if we are at haste cap ?
+BARD - Add Prechecks to level for mez and charm
+BARD - Get Selo's Accelerating Canto from Lxa...
+Bard - Consider adding Veshma's Lively Crescendo ( self Heal song good ) to spell gems if room
 Bard - Add Hymn of the Last Stand ALT
 Bard - Add Song of Stone ALT
 Bard - Add Funeral Dirge ALT
@@ -13,6 +26,9 @@ Bard - Add Cacophont ALT
 Bard - Consider storm blade ?
 Bard - Consider thousand blades ?
 Bard - Add Disable reachging Notes when fighting / enable when moving.
+Cleric - Figure out Promised Renewal
+Cleric - Consdier Elushar's Mark ( group symbol vs tenacity) & Ward of the Dauntless  * other hp buff
+Cleric - Add Elixir of Redemption (Group HOT)
 Cleric - Add Bestow Divine aura ALT
 Cleric - Add Silent Casting ALT
 Cleric - Add Sancuary ALT
@@ -23,20 +39,30 @@ Cleric - Add Divine Avatar ALT
 Cleric - Add Celestial Hammer ALT
 Cleric = Add Turn Undead ALT
 Cleric - Add Celestial Regeneration ALT
+wiz - Add Shield of the Crystalwing ? Sticking issue ?
+Wiz - Add Concussive Blast same timer as concussion ?
+Wiz - Consider adding Wildmagic strike
+Wiz - Add Patient Harvest  will it stack with other harvest ?
+Wiz - Add Tendrilmist Guard selp rune
+Wiz - Consider adding Ethantis's Burning Blade Pet
 Wiz - Add Abscond (self/target)ALT
-Working ? - Wiz - Add Exodus (group)ALT
 Wiz - Add Slient Casting ALT
 Wiz - Add Strong Root ALT
-Workin ? - Wiz - Add Harvest of Druzill ALT
 Wiz - Add Ward of Destruction ALT
 Wiz - Add Manaburn for Nameds, etc
-Workdin ? - Wiz - Add Call of XUzl
 Wiz - Add Acromancy Alt
 Wiz - Add Cryomancy Alt
 Wiz - Add Pyromancy Alt
 Wiz - Add Mind Crash Alt
 Wiz - Add Improved Familiar ALT with kill pet ( 2 buff slots )
 Wiz - Add Frenzied Devastation ALT
+Monk - Adjust mq2melee mend settings
+Mink - Add Impenetrable Discipline
+Monk - Add Second Wind  regen endurance
+Monk - Add Echo of Misdirection Mez if out of combat for multi pulls
+Monk - Add Clawstriker's Flurry
+Monk - Add 	Scaledfist Discipline
+Monk - Add Moment of Calm ( heals endurance)
 Monk - Add Dragon Force (push)
 Monk - Add Silent Strikes
 Monk - Add Grappling Strike ( pull)
@@ -51,7 +77,15 @@ SK - Add Encroching Darkness ALT ( snare with no hate or dmange ?)
 SK - Add Companions Fortification
 SK - Add Pet
 SK - Add Voice of Thule ALT
-
+Shaman - Add Second Life
+Shaman - Add Malis if other malo resisted.
+Shaman - Consider Wishka's Favor Clicky resists & Fulkitcher Weave block spell clicky
+Shaman - Get Spirit of Tala'Tak for lcea...
+shaman - add Specter of Renewal group hot
+Shaman - Replace Canni Spell
+Shaman - What the Hell is Feralize for ???
+Shamna - Consider adding Lassitude
+Shaman - SETUP MELEE not with group Panther
 
 
 
@@ -65,8 +99,13 @@ Wiz - Add Concussion
 Cleric - Buy Pearls for death pact ?
 Shaman - Consider heals for Stationary crew aka Cleric, Wizard, Shaman 
 		 Could cordinate with cleric hot and remove certain classes from the list. Currently Shaman is OOM so not till later.
+Cleric - Consider awestruck Stun+dmg over sound of zeal just stun		 
+Cleric - Consider Vow of Valor, any use ?		 
+CLERIC - Consider Ward of Reprisal as a heal or when have aggro ?		 
+CLERIC - Consider adding 	Consecrate Ground and other undead spells , check for undead status before use.		 
 Cleric - Add Cleric aa Abilities
-Cleric - Add mark of the blameless (reverse DS)
+Cleric - Consider Unflinching Hammer of Zeal ( Pet)
+Cleric - Consider Mark of the Martyr (reverse DS) /Blood of the Martyr (reverse DS with infect to other mobs. CAREFULL with Acause lots of aggro, Possibly on NPC)
 Cleric - Consider Mark of Kings
 Cleric - Consider Word of Replenishment
 Cleric - Consider Ward of Retribution Duration sucks would be ok for solo
