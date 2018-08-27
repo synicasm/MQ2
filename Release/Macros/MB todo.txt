@@ -1,110 +1,109 @@
 TODO
 
-[High Priority]
-SK - Consider Blackthorn Bite ( Lifetap and mana ) and Bond of the blackthourn ( hp over tiem tap )
-SK - Figure out how to add Challenge of Power ( need spell slots) or swap out other hate sepll ?
-SK - Add Amplify Death and Shambling minion Pet
-SK - Dark bargin, figure out how to drop the illusion part. Block it ?
-SK - ADD Soul Carapace ability
-SK - Change Dread Gaze spell to vilify, gem3 to Terror of Vergalid
+[ALL]
+All - Consider adding non group buff equivlents. Will need to Precheck...
+ALL Is haste needed on casters ? parse their pure melee dps. Drop bard haste ?
+All - Add target tyoe to hud.. Ie humanoid / plant / animal etc. ${Target.Body}
+ALL - New minimal UI 
+Add Foodspells / Autofeed items
+All - Get / Add breath weapon ( not worth the effort )
+All - Recheck AA abilires
+all - melle=1 save for casters
+
+[SK]
+SK - Re example Spell line up
+Sk - Add Rigor Motis to spells ?
+Sk - Add Dot ?
+SK - Check on /melee setting to stand from feign
+SK - Figure out how to add Trial for Power / Challenge of Power ( need spell slots) or swap out other hate sepll ?
+SK - ADD Umbral Carapace / Soul Carapace CA ( Damage mit ) 
 SK - ADD touch of the wailing Three when we have gem slots
-SK - Add 	Remorseless Demeanor  when we have spell slots
 SK - COnsider Last Breath FD... maybe Combine with Deathpeace AA and save a spell slot?
-Working ? - Shaman - Add Ancestral Guard ALT
-working ? - Shaman - Add Union of Spirits ALT
-Working ? - Shaman - Add Ancestral Aid ALT
-BARD - Consider using 72/73 song inplace of errik's if we are at haste cap ?
-BARD - Add Prechecks to level for mez and charm
-BARD - Get Selo's Accelerating Canto from Lxa...
-Bard - Consider adding Veshma's Lively Crescendo ( self Heal song good ) to spell gems if room
-Bard - Add Hymn of the Last Stand ALT
-Bard - Add Song of Stone ALT
-Bard - Add Funeral Dirge ALT
-Bard - Add Shield of Notes ALT
-Bard - Add Dance of Blades ALT
-Bard - Add Cacophont ALT
-Bard - Consider storm blade ?
-Bard - Consider thousand blades ?
-Bard - Add Disable reachging Notes when fighting / enable when moving.
-Cleric - Figure out Promised Renewal
-Cleric - Consdier Elushar's Mark ( group symbol vs tenacity) & Ward of the Dauntless  * other hp buff
-Cleric - Add Elixir of Redemption (Group HOT)
-Cleric - Add Bestow Divine aura ALT
-Cleric - Add Silent Casting ALT
-Cleric - Add Sancuary ALT
-Cleric - Add RC and Purify ALT
-Cleric - Add Divine Retribution ALT
-Cleric - Add Ward of Purity ALT
-Cleric - Add Divine Avatar ALT
-Cleric - Add Celestial Hammer ALT
-Cleric = Add Turn Undead ALT
-Cleric - Add Celestial Regeneration ALT
-wiz - Add Shield of the Crystalwing ? Sticking issue ?
-Wiz - Add Concussive Blast same timer as concussion ?
-Wiz - Consider adding Wildmagic strike
-Wiz - Add Patient Harvest  will it stack with other harvest ?
-Wiz - Add Tendrilmist Guard selp rune
-Wiz - Consider adding Ethantis's Burning Blade Pet
-Wiz - Add Abscond (self/target)ALT
-Wiz - Add Slient Casting ALT
-Wiz - Add Strong Root ALT
-Wiz - Add Ward of Destruction ALT
-Wiz - Add Manaburn for Nameds, etc
-Wiz - Add Acromancy Alt
-Wiz - Add Cryomancy Alt
-Wiz - Add Pyromancy Alt
-Wiz - Add Mind Crash Alt
-Wiz - Add Improved Familiar ALT with kill pet ( 2 buff slots )
-Wiz - Add Frenzied Devastation ALT
-Monk - Adjust mq2melee mend settings
-Mink - Add Impenetrable Discipline
-Monk - Add Second Wind  regen endurance
-Monk - Add Echo of Misdirection Mez if out of combat for multi pulls
-Monk - Add Clawstriker's Flurry
-Monk - Add 	Scaledfist Discipline
-Monk - Add Moment of Calm ( heals endurance)
-Monk - Add Dragon Force (push)
-Monk - Add Silent Strikes
-Monk - Add Grappling Strike ( pull)
-Monk - Add Imitate Death
-Monk - Add Destructive Force
-Monk - Add Focused Destructive Force
-Monk - Add Purify Body ATL
-SK - Add Death Peace ATL
-SK - Add hate step ( what is this for)
+Working ?SK - add villify group aggro with check for FD. Ehh needs work while pulling
+SK - Add FD heal for emergencies.
+SK - Add deflection disc
 SK - Add harmshield ALT
-SK - Add Encroching Darkness ALT ( snare with no hate or dmange ?)
-SK - Add Companions Fortification
-SK - Add Pet
-SK - Add Voice of Thule ALT
-Shaman - Add Second Life
+SK - Add AC / Atk Taps when we have the spell gems.
+Working ? SK - Add Leechtouch aa
+
+[Shaman]
+Reevaluate spell gem line up
+Add - Halcyon Zephyr single HOT 
+Add - Ancestral Intervention Group emergency heal
+Add - COnsider Thorn Wilting  negate DS.  not sure I would use this.
+Add - Ward of REsurgance , Will hold a spell slot Shield with hot for self
+Working ? - Shaman - Add Ancestral Guard ALT
+Working ? - Shaman - Add Ancestral Aid ALT
+Shaman - Add Preincarnation  Death Save
 Shaman - Add Malis if other malo resisted.
 Shaman - Consider Wishka's Favor Clicky resists & Fulkitcher Weave block spell clicky
 Shaman - Get Spirit of Tala'Tak for lcea...
-shaman - add Specter of Renewal group hot
-Shaman - Replace Canni Spell
+shaman - add Shade of Renewal group hot
 Shaman - What the Hell is Feralize for ???
-Shamna - Consider adding Lassitude
-Shaman - SETUP MELEE not with group Panther
-
-
-
-
-All - Consider adding non group buff equivlents. Will need to Precheck...
-SK - Add AC / Atk Taps when we have the spell gems.
-wiz - Setup stun cast on CH's etc.. Think this is done. Maybe add check for Complete heals / gate
-clr - Add atone? 	mobs.PctAggro > 1, /echo ${ADMobCount}, ${Me.PctAggro}, ${XTarget[#].PctAggro}
-Clr - Fine Tune Healing / Possibly cordinate with Stocism
-Wiz - Add Concussion 
-Cleric - Buy Pearls for death pact ?
+Shamna - Consider adding Languor/Lassitude
 Shaman - Consider heals for Stationary crew aka Cleric, Wizard, Shaman 
 		 Could cordinate with cleric hot and remove certain classes from the list. Currently Shaman is OOM so not till later.
+Shaman - Add Lingering Sloth if we have the buff slots.
+Shamna - Add Pure Spirt (cancel detrimental)
+Shaman - Add Virulent paralysis ( push back root for when getting attacked by adds.)
+Shaman - Add Radiant Cure
+Shaman - Add Dampen Resistance for mobs higher level to lower resistance. AA
+Working ?Shaman - Add Rabid Bear AA and Setup Melee
+Shaman - Add Call of the Ancients Healing Totem ALT
+Workgin ?Shaman - Add Spirit Call ALT
+Shaman - Consider Spiritual Channeling ALT USE HP instead of mana
+Sham - Consider Avatar needs emeralds stack with champion ?
+Sham - Add Group Hot when spell slots enought
+		 
+
+[Bard]
+Bard - Consider Arcane Anthem ?
+BARD - Add Prechecks to level for mez and charm. Note Charm used mana so will have to disable boastt below
+BARD - Get Selo's Accelerating Canto from Lxa...
+BARD - Twisitng 4 + selos for combat can we add 2 more ?  What ?   nivs , veeshawn , storm blade , thousand blade , dryad / aviaks , Arcane Aria
+Bard - Consider adding Kaerra's Spirited Crescendo ( self Heal song good ) to spell gems if room
+Bard - Add Disc Defdance Event for when low on health and you have aggro 100
+Working ? - Bard - Add Hymn of the Last Stand ALT
+Working ? - Bard - Add Song of Stone ALT
+Working ? - Bard - Add Shield of Notes ALT
+Bard - Add Disable reachging Notes when fighting / enable when moving.
+bard - Add puretone disc 
+Bard - Add Fading Memories if Group is dying event
+Bard - Add Disease / Poison cure Aria of Asceticism
+Bard - Add Curse Cure (Aura of innocence)
+Bard - Add Bard stun Bombastic Below ? 5 min recast
+Bard - Add AoE slow / Snare ?
+Bard - Add Song of Dawn ( aggro reducer)
+Bard - Add amplificaton?  Depends on songs singing...
+Bard - Add pacify for pulliung assistance ?
+bard - Consider adding in 	Verse of Vesagran  mitage and stat increase.
+Bard - add Song od suss for downtime food. ( not enought free gems)
+
+[Cleric]
+Consider Eleventh hour 35% or less quick heal
+Consider Frantic Renewal 
+Consider Adding Group HOT
+Add - Circle of divinity aura ?  Replace or add too ?
+Cleric - Add Summon hammer buff if primary is empty
+Cleric - Figure out Promised Restoration
+Cleric - Consdier Elushar's Mark ( group symbol vs tenacity) & Ward of the Dauntless  * other hp buff
+Cleric - Add Elixir of Redemption (Group HOT)
+Working ? Cleric - Add Bestow Divine aura ALT
+Working ?Cleric - Add Silent Casting ALT
+Cleric - Add Sancuary ALT - Trigger when group is dying and turn of casting.
+Cleric - Add RC and Purify ALT
+Cleric - Add Divine Retribution ALT if you have aggro fire this.
+Cleric - Add Ward of Purity ALT
+Working ?Cleric - Add Divine Avatar ALT
+Cleric - Add Celestial Regeneration ALT
+Cleric - Buy Pearls for death pact ?
+clr - Add atone? 	mobs.PctAggro > 1, /echo ${ADMobCount}, ${Me.PctAggro}, ${XTarget[#].PctAggro}
+Clr - Fine Tune Healing / Possibly cordinate with Stocism
 Cleric - Consider awestruck Stun+dmg over sound of zeal just stun		 
 Cleric - Consider Vow of Valor, any use ?		 
 CLERIC - Consider Ward of Reprisal as a heal or when have aggro ?		 
 CLERIC - Consider adding 	Consecrate Ground and other undead spells , check for undead status before use.		 
-Cleric - Add Cleric aa Abilities
-Cleric - Consider Unflinching Hammer of Zeal ( Pet)
+Cleric - Consider 	Indomitable Hammer of Zeal ( Pet)
 Cleric - Consider Mark of the Martyr (reverse DS) /Blood of the Martyr (reverse DS with infect to other mobs. CAREFULL with Acause lots of aggro, Possibly on NPC)
 Cleric - Consider Mark of Kings
 Cleric - Consider Word of Replenishment
@@ -115,47 +114,12 @@ Cleric - Consider Etheral Remedy
 Cleric - Consider word of redemption
 Cleric - Add Divine Intervention
 Cleric - Get Emeralds for DI
-Shaman - Add Lingering Sloth if we have the buff slots.
-Shamna - Add Pure Spirt (cancel detrimental)
-Bard - Consider sining Arcane Aria during combat ( dd increase )
-Bard - Consider adding charm back with level pre cond.  Note uses mana so will have to turn off boastfull Bellow
-
-
-bard - Add puretone disc
-Shaman - Add Virulent paralysis ( push back root for when getting attacked by adds.)
-Shaman - Add Radiant Cure
-Shaman - Add Dampen Resistance for mobs higher level to lower resistance. AA
-Shaman - Add Rabid Bear AA and Setup Melee
-Shaman - Add Call of the Ancients Healing Totem ALT
-Shaman - Add Spirit Call ALT
-Bard - Add Fading Memories if Group is dying event
-
-
-
-
-[Medium Priority]
-Shaman - Add Companion Fortification ALT
-Shaman - Consider Spiritual Channeling ALT
-Bard - Add Disease / Poison cure Aria of Asceticism
-Bard - Add Curse Cure (Aura of innocence)
-Bard - Add Bard stun Bombastic Below ? 5 min recast
-Bard - Add AoE slow / Snare ?
-Bard - Add Song of Dawn ( aggro reducer)
-Bard - Add amplificaton?  Depends on songs singing...
-Bard - Add pacify for pulliung assistance ?
 Cleric - Determine is Eradicate Curse (fast) is needed more that cure greater curse (slow)
-SK - Add Leechtouch aa Working?
-Add Foodspells / Autofeed
 Cleric - Consider Word of Restoration
 Cleric - Consider Eradicate Disease
 Cleric - Consider adding Elixir of Divinity Group Hots when the time comes.
-Cleric - Consider adding Desperate Renewal heal ( cures p/d/c as well) slow recast
+Cleric - Consider adding Frantic Renewal heal ( cures p/d/c as well) slow recast
 Cleric - Add mark of the blameless (reverse DS)
-bard - Consider adding in 	Verse of Vesagran  mitage and stat increase.
-
-[Very Low Priority]
-All - Get / Add breath weapon ( not worth the effort )
-Bard - add Song od suss for downtime food. ( not enought free gems)
 Cleric - Add wake of tranquility AOE pacify
 Cleric - Add undead nukes. / epitath of life dot
 Cleric - Add AoE stun ?
@@ -164,10 +128,55 @@ Cleric - Consider Mark of Kings ( revers ds heal on mob)
 Cleric - Consider longer lasting aegis for AC ?
 Cleric - Enforced Reveverience Stun ?
 Cleric - Consider adding Puratus to block incomming poison spell
-Sham - Consider Avatar needs emeralds
 Cleric - Balikor's Mark  Group Symbol
-Sham - Add Group Hot when spell slots enought
+
+[Wiz]
+mode new debuffs added up in ini
+; Flame pet
+Wiz - Add 	Euthanos' Flameblade
+Wiz - Consider adding Ethantis's Burning Blade Pet
+; Tangle weave etc
+Wiz - Consider if Tangleweave is worth the bother
+; Concussion
+Wix - Consider 	Concussive Burst
+Wiz - Add Concussive Blast same timer as concussion ?
+Wiz - Add Concussion 
+; Wildmagic
+Wiz - Consider adding Wildmagic strike
+; Snare Shield vs Mana / rubne
+Wiz - Add Tendrilmist Guard selp rune wont stack with Scales of the crystalwing.
+;misc to consider
+Wiz - Add Abscond (self/target)ALT
+Wiz - Add Slient Casting ALT
+Wiz - Add Strong Root ALT
+Wiz - Add Ward of Destruction ALT mabe add condition that mobs are 300 ticks away ?
+Wiz - Add Manaburn for Nameds, etc
+Wiz - Add Mind Crash Alt  If have aggro cast this
+Wiz - Add kill pet ( 2 buff slots ) Can just Block Buff...
+Wiz - Add Frenzied Devastation ALT amybe for named or multiples
+wiz - Setup stun cast on CH's etc.. Think this is done. Maybe add check for Complete heals / gate
 wiz - consider adding Trap rune again.. 
+
+;Add to precondition or event ?
+Working? Wiz - Add Acromancy Alt MAgic
+Wiz - Add Cryomancy Alt Cold
+Wiz - Add Pyromancy Alt Fire
+
+[Monk]
+Monk - Adjust mq2melee mend settings
+Mink - Add Impenetrable Discipline
+Monk - Add Second Wind  regen endurance
+Monk - Add Echo of Misdirection Mez if out of combat for multi pulls
+Monk - Add 	Scaledfist Discipline
+Monk - Add Moment of Calm ( heals endurance)
+Monk - Add Dragon Force (push)
+Monk - Add Silent Strikes
+Monk - Add Grappling Strike ( pull)
+Monk - Add Imitate Death
+Monk - Add Destructive Force
+Monk - Add Focused Destructive Force
+Monk - Add Purify Body ATL
+
 
 
 [*Info*]

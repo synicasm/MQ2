@@ -1,0 +1,125 @@
+[TODO]
+Work out who heals who and backups
+Check /melee settings
+
+[Druid]
+x4  - Camoflauge
+--
+17 - Shield of Barbs
+18 - Lessor Succor
+18 - Superior Camo
+19 - Healing
+19 - protection of rock (grp)
+20 - Circle of Blightfire Moors
+25 - Circle of Karana
+25 - Circle of Toxxulia
+25 - Circle of Butcher
+26 - Circle of Surefall Glade
+26 - Circle of the Nexus
+26 - Succor East
+27 - Shield of Brambles
+27 - Protection of Steel
+27 - Circle of Commons
+28 - Circle of Stonebrunt
+29 - Greater Healing
+29 - Circle of Grimling 
+29 - Harmony of Nature
+30 - Spirit of the Shrew
+30 - Circle of Lavastorm
+
+[Ranger]
+3  - Flame Lick
+x6  - Snare
+x8  - Minor Healing
+x12 - feet like cat
+x14 - camoflage
+14 - Burst of Fire
+
+--
+17 - Firefist
+19 - ignite
+20 - Light Healing
+22 - harmony
+28 - Spirit of wolf
+29 - flaming Arrow
+30 - Cancel Magic
+[Rogue]
+20 - Sneak Attack
+
+[Warior]
+1 - Throw stone
+20 - Provoke
+
+[BeastLord]
+x6  - Minor Healing 
+x13 - Spirit of Lightning
+x15 - Spirit of Khaliz
+--
+17 - Spirit of Bear
+17 - Summon Drink
+18 - Light Healing
+18 - Spirit of the Blizzard
+19 - Tiny Companion
+20 - Drowsy
+21 - Spirit of Keshuval
+24 - Spirit of Wolf
+26 - Spirit Strike
+26 - Turtle Skin
+28 - Healing
+28 - Spirit of Inferno
+29 - Summon Food
+30 - Spirit of Herikol
+[Enchanter]
+1  - Strengthen
+2  - Tashina
+3  - Color Flux
+4  - Enfeeblement
+4  - Gate
+4  - Invisibility
+6  - Root
+x6  - Lesser Shielding
+6  - Soothe
+7  - Chaotic Feedback
+7  - Cancel Magic
+9  - Languid Pace
+x11 - Intellectual Advancement
+11 - Charm 25
+11 - Choke
+13 - Enthrall 55
+13 - Rune I
+14 - Invisibility Versus Undead
+x14 - Shalee's Animation
+x14 - Breeze
+x15 - Quicknes
+---
+16 - Disempower
+16 - Sanity Warp
+16 - Mesmerization
+16 - Shielding
+17 - Intellectual Superiority
+17 - Sisna's Animation
+18 - Calm 5/50
+18 - Sympathetic Aura
+18 - Tashani
+19 - Feckless Might
+19 - Berserker Strength
+20 - Color Shift
+21 - Alacrity
+21 - Chaos Flux
+22 - Strip Enchantment
+22 - Rune II
+22 - Sagar's Animation
+23 - Beguile 37
+23 - Tepid Deeds
+23 - Major Shielding
+25 - instill
+25 - Listless Power
+25 - Feedback
+26 - Clarity
+26 - Haunting Visage
+26 - Suffocate
+28 - Augmentation
+28 - Nullify Magic
+29 - Uleen's Animation
+30 - Entrance 2/55
+30 - Entrancing Lights

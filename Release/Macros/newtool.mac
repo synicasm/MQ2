@@ -1,0 +1,257 @@
+|**----------
+ newtoon.mac
+-------------
+
+ Goal = Get a new toon setup
+
+ 1701c (LamahHerder)
+ + Faster, cleaner, better (ty eqmule)
+ + Bind's @ Soulbinder in PoK
+ + Get's Fellowship Insignia
+ 
+ 1701b (LamahHerder)
+ + Select reward working
+ + Gets Tank Merc dependant on Subscription
+
+ 1701a (LamahHerder)
+ ! Select Reward does not always work:
+	/notify RewardSelectionBottomPane RewardSelectionChooseButton leftmouseup
+ + Removed InvSlot stuff
+ + Removes all tasks when run complete
+ + Ports to PoK
+ + Fixed Spell/Song/Tome memorization, also made sure Berserker mem's extra tome.
+ + Cleanup...
+
+ 1609a (LamahHerder)
+ + First version
+ + Complete all of tutoriala
+ + Complete tutorialb task with Arias to get charm
+ 
+-------------
+ newtoon.mac
+----------**|
+
+Sub Main
+	 /if (${Zone.ShortName.Equal[tutoriala]}) /call tutoriala
+	 /if (${Zone.ShortName.Equal[tutorialb]}) /call tutorialb
+	 /if (${Zone.ShortName.Equal[PoKnowledge]}) /call PoKnowledge
+	 /echo !!!!! YAY YOZ WON DA EBERQUEST !!!!!
+/end
+
+Sub tutoriala
+	/target Arias
+		/bc Starting ${Zone.ShortName}
+		/if (${Window[alertwnd]}) /nomodkey /notify alertwnd ALW_Close_Button leftmouseup
+		/delay 2s ${Target.ID}==${Spawn[Arias].ID}
+		/hail
+		/if (${Window[LargeDialogWindow]}) /invoke ${Window[largedialogwindow].Child[LDW_OkButton].LeftMouseUp}
+		/if (${FindItemCount[Tome]}) /nomodkey /itemnotify "${FindItem[Tome]}" rightmouseup
+		/say escape
+		/delay 5s ${Window[TaskSelectWnd].Open}==TRUE
+		/if (${Window[TaskSelectWnd]}) /notify TaskSelectWnd TSEL_AcceptButton leftmouseup
+		/doortarget OBJ_JDSWITCHA
+		/if (${Window[LargeDialogWindow]}) /invoke ${Window[largedialogwindow].Child[LDW_OkButton].LeftMouseUp}
+		/call openDoor
+		/moveto loc 0.44 20.75
+	/delay 10s ${MoveTo.Stopped}
+
+	/bc Killing Jailor in ${Zone.ShortName}
+	 	/moveto loc ${Spawn[npc Jailor].Loc}
+	 	/target npc Jailor
+	 	/delay 10s ${MoveTo.Stopped}
+	 	/attack
+		/delay 1s
+	/delay 120s (!${Me.Combat})
+
+	/bc Looting Jailer in ${Zone.ShortName}
+		/delay 2s (${Window[advancedlootwnd]})
+		/if (${Window[advancedlootwnd]}) /notify advancedlootwnd ADLW_PLL_LootAllBtn leftmouseup
+	/delay 2s (!${Window[advancedlootwnd]})
+
+	/target pet Arias
+		/nomodkey /itemnotify "The Gloomingdeep Jailor's Key" leftmouseup
+		/delay 2s (${Cursor.ID})
+		/if (${Target.Distance} > 20) /moveto id ${Target.ID}
+		/delay 2s ${MoveTo.Stopped}
+		/if (${Target.Distance} < 21) /nomodkey /click left target
+		/delay 2s (${Window[givewnd]})
+		/if (${Window[givewnd]}) /notify givewnd GVW_Give_Button leftmouseup
+		/delay 2s (!${Window[givewnd]})
+		/bc Finished ${Zone.ShortName}
+		/call closeWindows
+	/delay 180s ${Zone.ShortName.Equal[tutorialb]}==TRUE
+/return
+
+Sub tutorialb 
+	/bc Starting ${Zone.ShortName}
+	/call abusePerson Arias
+	
+	| Get item = Gloomingdeep Kobold Arms
+	/call abusePerson Vahlara
+		/delay 2s
+		/autoinventory
+		/say others
+	/call closeWindows
+	
+	| Get junky-jboots clicky = Worn Totem
+	/call abusePerson "Basher Alga"
+		/if (${Window[TaskSelectWnd]}) /notify TaskSelectWnd TSEL_AcceptButton leftmouseup
+		/hail
+		/call closeWindows
+		/call getReward
+		/if (${FindItemCount[Worn Totem]}) /useitem "Worn Totem"
+	/delay 3s (!${Cast.Ready})
+
+	| Get Mercenary = Tank
+	/target npc Elegist
+		/moveto id ${Spawn[npc Elegist].ID}
+		/delay 8s ${Target.Distance}<10
+		/click right target
+		/delay 1s
+		
+			/if (${Me.Subscription.Equal[GOLD]}) {
+				/invoke ${Window[mmtw_merchantwnd].Child[MMTW_TypeComboBox].Select[2]}
+				/delay 1s 
+				/invoke ${Window[mmtw_merchantwnd].Child[MMTW_SubtypeListBox].Select[1]}
+			}
+
+			/if (${Me.Subscription.Equal[SILVER]}) /invoke ${Window[mmtw_merchantwnd].Child[MMTW_SubtypeListBox].Select[9]}
+			/if (${Me.Subscription.Equal[FREE]}) /invoke ${Window[mmtw_merchantwnd].Child[MMTW_SubtypeListBox].Select[3]}
+			
+		/invoke ${Window[mmtw_merchantwnd].Child[MMTW_HireButton].LeftMouseUp}
+		/delay 1s
+	/invoke ${Window[mmgw_managewnd].Child[MMGW_SuspendButton].LeftMouseUp}
+
+	/call abusePerson Lyndroh
+		/click right target
+		/delay 2s (${Window[bigbankwnd]})
+		/nomodkey /itemnotify bank1 leftmouseup
+		/delay 1s
+		/if (${Cursor.ID}) /autoinventory
+	/invoke ${Window[bigbankwnd].Child[BIGB_DoneButton].LeftMouseUp}
+
+	| Get item = noob song/tome/spell
+	/call abusePerson Rytan
+		/say blessed
+		/call closeWindows
+		/delay 1s
+		/if (${Cursor.ID}) /autoinventory
+		/call closeWindows
+		/if (${FindItemCount[Song]}) /nomodkey /itemnotify "${FindItem[Song]}" rightmouseup
+		/if (${FindItemCount[Spell]}) /nomodkey /itemnotify "${FindItem[Spell]}" rightmouseup
+		/if (${FindItemCount[Tome]}) /nomodkey /itemnotify "${FindItem[Tome]}" rightmouseup
+		/delay 9s (!${Cursor.ID})
+		/if (${Window[spellbookwnd]}) /keypress SPELLBOOK
+	/call closeWindows
+
+	| Get item = weapon upgrade
+	/call abusePerson Absor
+		/nomodkey /itemnotify mainhand leftmouseup
+		/delay 1s
+		/if (${Cursor.ID}) /click left target
+		/delay 2s (${Window[givewnd]})
+		/if (${Window[givewnd]}) /notify givewnd GVW_Give_Button leftmouseup
+		/delay 2s (!${Window[givewnd]})
+		/call closeWindows
+		/if (${FindItemCount[Sharpened]}) /itemnotify "${FindItem[Sharpened]}" leftmouseup
+		/if (${FindItemCount[Polished]}) /itemnotify "${FindItem[Polished]}" leftmouseup
+		/delay 1s
+		/if (${Cursor.ID}) /autoinventory
+
+	/call abusePerson Prathun
+	/call closeWindows
+
+	/call abusePerson Arias
+		/hail
+		/call closeWindows
+		/delay 1s
+		/if (${Cursor.ID}) /autoinventory
+		/call removeTasks
+		/say I am ready to leave
+	/delay 180s ${Zone.ShortName.Equal[PoKnowledge]}==TRUE
+/return
+
+Sub PoKnowledge
+	/bc Starting ${Zone.ShortName}
+	/target npc Soulbinder Jera
+		/moveto loc -191 -74
+		/delay 20s ${MoveTo.Stopped}
+	/say bind your soul
+	
+	|Get fellowship token
+	/moveto loc 71 -85
+		/delay 20s ${MoveTo.Stopped}
+		/moveto loc 291 -112
+		/delay 20s ${MoveTo.Stopped}
+		/moveto loc 318 71
+		/delay 20s ${MoveTo.Stopped}
+		/doortarget POKDOOR503
+		/moveto loc ${Switch.DefaultY} ${Switch.DefaultX}
+		/delay 20s ${MoveTo.Stopped}
+		/if (${Switch.Open}==FALSE) /call openDoor
+		/moveto loc 381 72
+		/delay 20s ${MoveTo.Stopped}
+		/target npc Randall
+		/moveto loc 439 70
+		/delay 20s ${MoveTo.Stopped}
+		/say how
+		/delay 1s
+		/moveto stop
+		/if (${Cursor.ID}) /autoinventory
+		/doortarget POKDOOR503
+		/moveto loc ${Switch.DefaultY} ${Switch.DefaultX}
+		/delay 20s ${MoveTo.Stopped}
+		/if (${Switch.Open}==FALSE) /call openDoor
+		/moveto loc 307 73
+		/delay 10s ${MoveTo.Stopped}
+/return
+
+Sub getReward
+	/invoke ${Window[RewardSelectionWnd].FirstChild.FirstChild.Next.Child[RewardSelectionChooseButton].LeftMouseUp}
+	/delay 1s
+/return
+
+Sub removeTasks
+	/if (!${Window[taskwnd]}) /keypress CMD_TOGGLETASKWIN
+	/delay 5s (${Window[taskwnd]})
+	/nomodkey /notify taskwnd TASK_AbandonButton leftmouseup
+	/nomodkey /notify confirmationdialogbox CD_Yes_Button leftmouseup
+	/delay 1s
+	/nomodkey /notify taskwnd TASK_AbandonButton leftmouseup
+	/nomodkey /notify confirmationdialogbox CD_Yes_Button leftmouseup
+	/if (${Window[taskwnd]}) /keypress CMD_TOGGLETASKWIN
+/return
+
+Sub abusePerson(Person) 
+	/echo Dealing with ${Person}
+	/target npc ${Spawn[npc ${Person}].DisplayName}
+	/call closeWindows
+	/squelch /face ${Person}
+	/moveto id ${Spawn[npc ${Person}].ID}
+	/call closeWindows
+	/delay 10s (${Spawn[${Person}].Distance}<14)
+	/hail
+	/delay 5
+/return
+
+Sub closeWindows 
+	/if (!${Window[LargeDialogWindow]}) /delay 5
+	:closeWindowsLoop
+		/if (!${Window[LargeDialogWindow]}) /return
+		/if (${Window[LargeDialogWindow]}) /invoke ${Window[largedialogwindow].Child[LDW_OkButton].LeftMouseUp}
+		/delay 1s
+	/goto :closeWindowsLoop
+/return
+
+Sub openDoor
+	/if (${Switch.Open}==FALSE) {
+		:openSwitchLoop
+			/face door
+			/if (${Window[LargeDialogWindow]}) /invoke ${Window[largedialogwindow].Child[LDW_OkButton].LeftMouseUp}
+			/click left door
+			/delay 2s
+			/if (${Switch.Open}==FALSE) /goto :openSwitchLoop
+	}
+	/delay 1s
+/return
+/end

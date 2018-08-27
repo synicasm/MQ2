@@ -1,3 +1,9 @@
+Aug 18 2018 by eqmule
+- Updated for TEST
+
+Aug 15 2018 by eqmule
+- Updated for LIVE
+
 Aug 09 2018 by eqmule
 - Updated for TEST
 

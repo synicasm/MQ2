@@ -1034,10 +1034,8 @@ Sub Wait4Rez
 Sub ClearCursor
 |   /if (${Window[InventoryWindow].Open} && !${DoCombines}) /return
    /if (${Window[InventoryWindow].Open} && !${DoCombines} && ${Foreground} ) /return   
-|   /if (${Window[InventoryWindow].Open} && !${DoCombines}) {
-|      /if (${Bool[${Plugin[MQ2FPS]}]} {
-|	     /if (${Foreground}) /return
-|   } 
+| Trying 
+|   /if (${Window[InventoryWindow].Open} && !${DoCombines} || (${Bool[${Plugin[MQ2FPS]}]} && ${Foreground}) ) /return   
    /declare x int local
    /declare tTime int local ${Macro.RunTime}
 :auto_inv
