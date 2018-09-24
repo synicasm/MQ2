@@ -1,6 +1,27 @@
 TODO
+[Traders] Fishing Fletching Jewelcraft Pottery Smithing Tailoring Alchemy Poison SpellReasearch Ti
+Baking - [Elcina 300] - Ozumzen
+Brewing - [Elcina 276] - Ozumzen
+Fishing - [Elcina 178] - Ozumzen
+Fletching - [Elcina 265] - Ozumzen
+Jewelcraft - [Elcina 300] - Ozumzen
+Pottery - [Elcina 217] - Ozumzen
 
+Smithing - [Elcina 300] - Lolenta
+Tailoring - [Elcina 299] - Lolenta 
+Alchemy - [Elcinicky 300] - Lolenta
+Poison - [Coradoe 300] - Lolenta
+SpellReasearch - [Shelky 241] - Lolenta
+Tinkering - [Shelky 224] - Lolenta
+
+
+Lolenta - Tradeskill
+Shelky - Tinkering
+Ozumzen - Smithing
+Dandalo - Tailoring
+Elcindo - the rest seller
 [ALL]
+Modify banksorter.mac to do inventory too
 All - Consider adding non group buff equivlents. Will need to Precheck...
 ALL Is haste needed on casters ? parse their pure melee dps. Drop bard haste ?
 All - Add target tyoe to hud.. Ie humanoid / plant / animal etc. ${Target.Body}
@@ -11,11 +32,15 @@ All - Recheck AA abilires
 all - melle=1 save for casters
 
 [SK]
-SK - Re example Spell line up
-Sk - Add Rigor Motis to spells ?
+SK - Reeval lift tap setup
+SK - Final Breath CA
+SK - Consider adding Steely Stance Spell Temp HP buff
+SK - Consider Unsavory Sacrifice spell Pet blow up
+SK - Add Malarian Mantle
+SK - Add Withstand
+SK - Add Malarin Carapace
+Sk - Reeval FD spells / abilires
 Sk - Add Dot ?
-SK - Check on /melee setting to stand from feign
-SK - Figure out how to add Trial for Power / Challenge of Power ( need spell slots) or swap out other hate sepll ?
 SK - ADD Umbral Carapace / Soul Carapace CA ( Damage mit ) 
 SK - ADD touch of the wailing Three when we have gem slots
 SK - COnsider Last Breath FD... maybe Combine with Deathpeace AA and save a spell slot?
@@ -27,6 +52,15 @@ SK - Add AC / Atk Taps when we have the spell gems.
 Working ? SK - Add Leechtouch aa
 
 [Shaman]
+Healing Counterbias
+Halcyon Whisper /Shadow of Renewal 
+Listlessness
+Wild Growth
+Shadow of Renewal
+Ward of Restoration
+Add Pack of Ania - Pet swarm
+Add Frost Gift
+Add Spalsh of Runedust
 Reevaluate spell gem line up
 Add - Halcyon Zephyr single HOT 
 Add - Ancestral Intervention Group emergency heal
@@ -57,9 +91,14 @@ Sham - Add Group Hot when spell slots enought
 		 
 
 [Bard]
-Bard - Consider Arcane Anthem ?
+Bard - Consider Dance of the Dragon Absorb Magic, AC , mit ds, sr %10
+Working ?Bard - Add Pests of the Piper Swarm pets long recast maybe need reagent
+Bard - Consider Gruber's Lively Crescendo mana / hp big regen cost mana
+Bard - Add Arcane Arietta to Twist
+WOrking ?Bard - Add Wave of Slumber AOE Mez 
+Bard - Add Venimor's Insult DD song
+Working ?Bard - Consider Arcane Anthem ?
 BARD - Add Prechecks to level for mez and charm. Note Charm used mana so will have to disable boastt below
-BARD - Get Selo's Accelerating Canto from Lxa...
 BARD - Twisitng 4 + selos for combat can we add 2 more ?  What ?   nivs , veeshawn , storm blade , thousand blade , dryad / aviaks , Arcane Aria
 Bard - Consider adding Kaerra's Spirited Crescendo ( self Heal song good ) to spell gems if room
 Bard - Add Disc Defdance Event for when low on health and you have aggro 100
@@ -80,6 +119,8 @@ bard - Consider adding in 	Verse of Vesagran  mitage and stat increase.
 Bard - add Song od suss for downtime food. ( not enought free gems)
 
 [Cleric]
+Consider Eurd's Retort
+Consider adding 2nd DD ?
 Consider Eleventh hour 35% or less quick heal
 Consider Frantic Renewal 
 Consider Adding Group HOT
@@ -131,6 +172,13 @@ Cleric - Consider adding Puratus to block incomming poison spell
 Cleric - Balikor's Mark  Group Symbol
 
 [Wiz]
+Wildmagic Blast
+Ribbon Lightning
+Malediction of Havoc
+Daveron's Pyroblade
+Mindfreeze
+Concussive flash
+Crystalwind Circle
 mode new debuffs added up in ini
 ; Flame pet
 Wiz - Add 	Euthanos' Flameblade
@@ -187,4 +235,20 @@ ACLeash = the max a toon will engage things
 /alt on [1-100]
 
 Drunken Master Modbot (drinking skill increase) https://www.macroquest2.com/phpBB3/viewtopic.php?p=175710#p175710
+
+[bugs]
+Main assist is getting counted as tank for buffs ex. thistles.
+problem in this section of modbot.mac ?
+/if (${AllTankName.NotEqual[manual]}) {
+         /if (${Group.MainAssist.ID} && ${Spawn[${Group.MainAssist.ID}].ID} && !${Group.MainAssist.Type.Equal[corpse]}) { 
+            /varset TankName ${Group.MainAssist.Name} 
+         } else /if (${Group.MainTank.ID} && ${Spawn[${Group.MainTank.ID}].ID} && !${Group.MainTank.Type.Equal[corpse]}) { 
+            /varset TankName ${Group.MainTank.Name} 
+         } else /if (${TankName.Length}>2 && (!${Spawn[${TankName}].ID} || ${Spawn[${TankName}].Type.Equal[corpse]})) { 
+            /for b ${Math.Calc[${AllTankName.Count[,]}+1]} downto 1 
+               /if (${Spawn[${AllTankName.Arg[${b},,]}].ID} && !${Spawn[${AllTankName.Arg[${b},,]}].Type.Equal[corpse]}) /varset TankName ${AllTankName.Arg[${b},,]} 
+            /next b
+         } 
+		 
+
 

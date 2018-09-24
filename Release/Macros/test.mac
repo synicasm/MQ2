@@ -1,0 +1,2 @@
+Sub Main
+/if ( 2>2 ) { /echo True } else { /echo False }

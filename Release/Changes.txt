@@ -1,3 +1,19 @@
+Sep 12 2018 by SwiftyMUSE
+- Added Banker for searches.
+- Fixed .NumGems so it will give up to 14 based on your spellbar.
+
+Sep 12 2018 by eqmule
+- Updated for TEST
+- Fixed /removeaug
+- Added support for RewardSelectionWnd through the /notify command -Plure
+- Added .StacksWithDiscs to the Spell TLO its a true/false
+  I don't know if it works, its untested.
+- Advloot giveto now works for raid members as well.
+- Added .Collected and .CollectedRecieved and .Scribed and .ScribedRecieved to the DisplayItem TLO they return true/false
+
+Sep 05 2018 by eqmule
+- Updated for TEST
+
 Aug 18 2018 by eqmule
 - Updated for TEST
 
