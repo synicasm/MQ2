@@ -1,1606 +1,344 @@
-[Trace][09/15/18 16:54:30] Attempting to load toskirakk.eqg as a standard eqg.
-[Trace][09/15/18 16:54:30] Parsing zone file.
-[Trace][09/15/18 16:54:30] Parsing zone models.
-[Trace][09/15/18 16:54:30] Loading zone models.
-[Trace][09/15/18 16:54:30] Loading model TER_toskmainarea_ext.TER.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_ogrebench.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_slavepit_area.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_columns.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_cavesupport.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_entry_statue.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_entryway.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_brazierstand.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_entryway_trans.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_column_ext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_walkway_spprt.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_transroom.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_femalestatue.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_halfcolumn.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_transroomhall.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_transroomcont.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_transhall_elbw.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_rearhall_left.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_rearhall_rht.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_frnthall_rht.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_female_brazext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_spirit_debrisroom.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_doorlocked.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_spiritroom.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_guard_statuesmall.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_spirit_entryshort.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_humanbench.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_prisoncell_guardentry.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_prisoncell_columnshrt.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_prisoncell_column.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_prisoncell_entry.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_prisoncell.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_rhthall_trans.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskbridge.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcanyon_column.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_massive_column.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_massive_statue.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskbridge_wall.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_firering.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_portal_column.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_interior_column_lrg.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_shrine_supports.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_shrine_platform.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_brassbrazier.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcrate.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_bucket.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_barrel.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_cratepack_ext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tskmarket_grains.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tskmarket_beans.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_chairhuman_ext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_hbenchext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_bucketint.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_barrelint.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_murdock_col.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_murdock_smbrazier.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_temple_understrut.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_center_marketplace.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_marketplace_wall.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_topdome_fluff.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_temple_exteriorbase.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_temple_interiordome.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_temple_intertower.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_murdocks_office.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_murdock_entry.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_murdock_medbrazier.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosktree.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_brazierext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_discord_altar.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_discord_powersource.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_discord_rubble_lrg.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_discord_rubble_med.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_discord_rubble_sml.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tunnelarchway.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_cityblock_tower.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_cityblock_large.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_cityblock_med.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcity_tower.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcity_rht.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcity_rhtback.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcity_back.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcity_left.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcity_blocklft.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcity_rhtfront.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_toskcity_blockrht.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_cityblock_largemirr.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_mrdck_chair.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_mrdck_chairbench.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_murdock_mainchair.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_marketplace_awning.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_murdock_desk.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_prisongate.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_crimsondoor.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_prisongate_entry.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tskentry_statue_ext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_murdock_brazier.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_centerpost_statue.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_tosk_firering_ext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_kor_portal.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBJ_female_brazier_int.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_temple_basebck_rht.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_temple_basefrnt_rht.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_temple_basefrnt_lft.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_temple_basebck_lft.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_templebase_statue.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_bridge_statuelft.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_bridge_anchor.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_bridge_statuerht.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_bridge_statuetorch.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_toskcanyon.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_temple_sidearch.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_tosk_toptierfluff.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_femstatue_symbol.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_toptier_colfluff.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_temple_ringext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_archt_fluff.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_topdome_smlfluff.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_topdome_towerfluff.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_interior_domefluff.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_banner_longred.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_banner_longblu.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_banner_shrtblu.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_tosktree_sml.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_banner_ext.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_temple_frontarch.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_tosk_tierledge.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model OBP_banner_small.MOD.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Parsing zone placeables.
-[Trace][09/15/18 16:54:30] Parsing zone regions.
-[Trace][09/15/18 16:54:30] Parsing zone lights.
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_ogrebench.MOD at (296.442688, -450.466400, 17.373724)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_ogrebench.MOD at (273.690186, -453.952545, 17.014616)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_ogrebench.MOD at (273.690186, -438.983490, 17.014616)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_ogrebench.MOD at (286.425903, -434.167419, 17.014616)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_ogrebench.MOD at (300.379578, -442.904144, 17.014616)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_ogrebench.MOD at (260.507690, -459.786804, 16.826609)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_ogrebench.MOD at (250.495987, -464.140533, 16.826609)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_ogrebench.MOD at (240.352203, -458.316589, 16.903032)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_slavepit_area.MOD at (0.000000, -0.000000, 0.000000)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_columns.MOD at (8.003069, 0.014805, 0.000004)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_columns.MOD at (8.003069, 0.014805, 0.000004)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_columns.MOD at (8.003069, 0.014805, 0.000004)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_columns.MOD at (8.003069, 0.014805, 0.000004)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cavesupport.MOD at (196.243362, -413.784607, 16.964016)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cavesupport.MOD at (-1308.992432, 3008.516357, 305.367737)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cavesupport.MOD at (-1496.768311, 2881.224609, 337.215210)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cavesupport.MOD at (382.791443, 1786.490723, 169.585251)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cavesupport.MOD at (238.715179, 1554.657471, 65.180527)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cavesupport.MOD at (12.278809, 442.306763, 25.904627)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cavesupport.MOD at (-334.933472, 693.085876, 64.639030)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cavesupport.MOD at (-378.645874, 2660.371582, 283.778503)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (76.152771, 143.835785, -7.619980)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (37.394562, 156.270401, -7.619980)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (86.128761, 174.538727, -7.619980)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (47.365688, 187.133636, -7.619980)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (86.130760, -174.533997, -7.619978)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (76.154770, -143.831055, -7.619978)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (37.391697, -156.425934, -7.619978)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (47.367691, -187.128876, -7.619978)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-124.875153, 418.452698, 25.803087)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-92.375977, 418.445068, 25.847130)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-92.379944, 459.416718, 25.793724)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-124.821449, 459.441376, 25.833633)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-317.856476, 798.403931, 64.564407)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-358.805298, 798.403931, 64.564407)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1733.882080, 1054.947876, 64.905098)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1733.661377, 1095.896118, 64.905098)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1367.777710, 1548.217163, 64.905098)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1367.998413, 1507.268921, 64.905098)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1336.371094, 2153.629639, 64.905098)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1336.591797, 2112.681396, 64.905098)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (150.172134, 1488.073120, 64.905098)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (134.103180, 1525.737427, 64.905098)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1433.896729, 2760.827393, 336.958740)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1472.841187, 2748.173584, 336.958740)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (309.248199, 1669.204590, 169.282364)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (346.357422, 1651.892822, 169.282364)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (359.806580, 1681.157837, 169.282364)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (322.997864, 1698.329468, 169.282364)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1444.024292, 2791.401123, 336.958740)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entry_statue.MOD at (-1482.653442, 2778.849854, 336.958740)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entryway.MOD at (61.761322, -165.490494, -3.999922)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entryway.MOD at (61.769131, 165.483887, -4.012989)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entryway.MOD at (-108.631096, 438.912109, 29.407047)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierstand.MOD at (-7.307654, -96.649689, -1.901394)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierstand.MOD at (-4.585591, 78.767258, -1.901394)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierstand.MOD at (28.890587, 27.487059, -0.185432)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierstand.MOD at (31.951672, -32.202961, -0.185432)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entryway_trans.MOD at (-338.328125, 814.669922, 68.161568)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entryway_trans.MOD at (128.242920, 1500.668701, 68.498886)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entryway_trans.MOD at (-1320.445923, 2132.813477, 68.494408)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entryway_trans.MOD at (-1351.965820, 1527.527344, 68.525635)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_entryway_trans.MOD at (-1717.920532, 1075.246094, 68.484375)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-660.893127, 1125.433105, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-533.047180, 1113.498413, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-786.124512, 1113.498413, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-415.129150, 1252.311523, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-413.410126, 1408.399780, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-392.178284, 1561.258179, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-443.310883, 1881.736938, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-550.466125, 1881.736938, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-660.893127, 1881.736938, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-770.337402, 1881.736938, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-878.311035, 1881.736938, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-958.814331, 1718.358032, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-926.454712, 1561.258179, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-909.898621, 1408.399780, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-904.466919, 1252.311523, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_column_ext.MOD at (-360.277924, 1718.358032, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_walkway_spprt.MOD at (-261.964294, 1134.683838, 259.080078)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_walkway_spprt.MOD at (-157.683899, 1094.271118, 259.080078)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_walkway_spprt.MOD at (-1059.822876, 1134.683838, 259.080078)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_walkway_spprt.MOD at (-1164.103394, 1094.271118, 259.080078)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_walkway_spprt.MOD at (-371.324554, 2028.279541, 259.080078)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_walkway_spprt.MOD at (-950.463928, 2028.279663, 259.080078)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_walkway_spprt.MOD at (-995.817932, 2130.507813, 259.080078)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_walkway_spprt.MOD at (-1047.140381, 2232.278320, 259.080078)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_transroom.MOD at (-1925.732422, 1344.501465, 357.753723)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-1882.715820, 1281.398193, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-1988.109009, 1281.398193, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-1988.109009, 1386.664917, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-1882.715820, 1386.664917, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-1316.261841, 1276.559082, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-1316.261841, 1171.292358, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-1421.655029, 1171.292358, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-1421.655029, 1276.559082, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-5.771065, 1276.559082, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (99.622124, 1276.559082, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (-5.771065, 1171.292358, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_femalestatue.MOD at (99.622124, 1171.292358, 332.344971)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1764.037598, 1345.795288, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1764.037598, 1322.190063, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1685.043457, 1322.190063, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1685.043457, 1345.795288, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1606.072998, 1322.190063, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1606.072998, 1345.795288, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1527.041626, 1322.190063, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1527.041626, 1345.795288, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1448.044678, 1322.190063, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1448.044678, 1345.795288, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1395.909912, 1345.795288, 284.171906)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1342.052490, 1345.795288, 284.171906)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1337.626465, 1092.498535, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1390.943726, 1082.062378, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1236.350098, 1033.169312, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1258.422974, 1082.845337, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1179.790161, 1117.613647, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1159.991699, 1066.988159, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1098.482788, 1149.579102, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1080.387207, 1098.320190, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-992.752808, 1126.183105, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1002.901794, 1180.149536, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1372.341797, 1023.617676, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1301.569336, 1000.604919, 284.170807)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1152.985962, 2358.214844, 284.170959)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1125.197998, 2431.326660, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1079.208252, 2451.197754, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1062.260254, 2399.091797, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1110.182129, 2292.145020, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1062.386108, 2317.933838, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1070.640747, 2222.184814, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1020.951172, 2243.953125, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-1030.163208, 2142.950928, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-980.511414, 2164.758545, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-991.607178, 2059.978271, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-940.350220, 2077.641846, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-958.638794, 1971.203125, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-905.425659, 1981.578735, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-211.740021, 2291.902588, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-259.506042, 2317.642822, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-251.321671, 2222.144775, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-300.798950, 2243.986328, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-291.743866, 2142.829834, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-341.221161, 2164.671387, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-330.047668, 2059.950684, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-381.383057, 2078.049805, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-416.250488, 1982.048950, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-363.167053, 1971.290649, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-259.730835, 2399.464600, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-242.397598, 2451.146240, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-191.352264, 2428.427979, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-171.940857, 2353.803955, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (52.472214, 1028.302734, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-18.997980, 1000.149658, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (69.454674, 1081.916870, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (15.661693, 1092.441406, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-85.918648, 1033.455933, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-63.677319, 1082.907349, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-141.603333, 1117.365356, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-162.145264, 1067.216187, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-223.468674, 1149.537354, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-241.421021, 1098.398438, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-319.116425, 1179.782104, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_halfcolumn.MOD at (-329.177032, 1126.369141, 284.170868)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_transroomhall.MOD at (-1584.231445, 1333.989502, 307.917816)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_transroomcont.MOD at (-1369.037720, 1220.991211, 357.753723)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_transhall_elbw.MOD at (0.000000, -0.000000, 0.000000)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_rearhall_left.MOD at (0.000000, -0.000000, 0.000000)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_rearhall_rht.MOD at (0.000000, -0.000000, 0.000000)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_frnthall_rht.MOD at (-167.361755, 1086.833252, 307.917847)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-1642.763428, 1019.176086, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-1642.763428, 1131.507690, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-1243.996338, 1597.831787, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-1243.996338, 1456.169922, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-1192.737793, 2068.156982, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-1192.737793, 2195.659912, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-37.188927, 1493.734497, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-37.188915, 1399.183228, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-270.091949, 880.405640, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazext.MOD at (-396.763550, 880.405640, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_spirit_debrisroom.MOD at (-1641.416260, 2767.061523, 387.533600)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_doorlocked.MOD at (-1527.741333, 2814.059814, 337.234283)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_spiritroom.MOD at (-1773.420410, 3036.020020, 466.531555)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_guard_statuesmall.MOD at (-1574.191162, 2638.679932, 377.188538)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_guard_statuesmall.MOD at (-1574.191162, 2663.540283, 377.188538)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_guard_statuesmall.MOD at (-1593.368408, 2663.540283, 377.188538)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_guard_statuesmall.MOD at (-1593.368408, 2638.699463, 377.188538)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_guard_statuesmall.MOD at (-1761.790283, 2934.572021, 388.928223)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_guard_statuesmall.MOD at (-1786.650635, 2934.572021, 388.928223)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_guard_statuesmall.MOD at (-1761.790283, 2953.749268, 388.928223)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_guard_statuesmall.MOD at (-1786.631104, 2953.749268, 388.928223)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_spirit_entryshort.MOD at (-1580.825684, 2651.137939, 362.995056)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_spirit_entryshort.MOD at (-1774.180298, 2941.209473, 374.754700)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (287.629242, -368.912262, 16.896954)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (279.364868, -365.458008, 16.896954)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (269.774689, -367.932770, 16.908623)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (278.742523, -386.354248, 16.908623)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (287.238586, -384.054108, 16.908623)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (326.951416, -369.829102, 16.920090)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (329.012177, -378.002441, 16.908421)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (324.542450, -385.764771, 16.908421)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (301.076538, -373.399506, 16.921875)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (305.704315, -375.114410, 16.920090)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (329.576233, -400.970398, 17.185680)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (324.405914, -408.284760, 16.877041)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (325.699860, -416.614014, 16.506865)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_humanbench.MOD at (347.345520, -413.321808, 16.964697)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_guardentry.MOD at (-120.134064, 2927.964355, 288.526886)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_guardentry.MOD at (-13.877563, 2902.004883, 292.909515)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_columnshrt.MOD at (-85.652100, 2960.916748, 286.620667)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_columnshrt.MOD at (-154.303406, 2960.916748, 286.620667)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_column.MOD at (20.408508, 2946.942871, 286.620667)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_column.MOD at (-48.155769, 2946.942871, 286.620667)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_entry.MOD at (-45.291748, 3146.505859, 294.952820)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_entry.MOD at (99.224442, 3112.095703, 295.185272)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisoncell_entry.MOD at (-159.372360, 3111.218750, 295.185272)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_prisoncell.MOD at (-45.291748, 3146.505859, 294.952820)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_prisoncell.MOD at (99.224487, 3112.095703, 295.185272)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_prisoncell.MOD at (-159.372314, 3111.218750, 295.185272)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_rhthall_trans.MOD at (47.251343, 1223.951538, 284.170776)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskbridge.MOD at (-1226.425171, -315.449890, 117.650940)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcanyon_column.MOD at (-1097.809204, -24.789371, -270.778839)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcanyon_column.MOD at (-1355.227539, -24.869579, -270.778839)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcanyon_column.MOD at (-1097.608643, -606.032043, -270.778839)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcanyon_column.MOD at (-1355.117554, -606.196106, -270.778839)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_massive_column.MOD at (-711.283569, 726.982971, 72.656158)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_massive_column.MOD at (-612.140991, 726.982971, 72.656158)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_massive_statue.MOD at (-658.382629, 798.891541, 283.460114)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskbridge_wall.MOD at (-1226.425049, -86.233795, 121.866348)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering.MOD at (278.463165, -374.783051, 16.967918)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering.MOD at (317.018219, -377.029266, 16.967918)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering.MOD at (284.098083, -448.463013, 17.223484)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering.MOD at (247.200012, -448.463013, 17.341146)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering.MOD at (336.572510, -410.889771, 16.601624)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_portal_column.MOD at (-1276.885742, -852.082764, 121.866348)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_portal_column.MOD at (-1134.609375, -787.414551, 121.866348)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_portal_column.MOD at (-289.616150, -1339.654541, 401.637085)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_portal_column.MOD at (-407.551483, -1402.190552, 401.637085)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-519.964111, 1834.894043, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-563.702942, 1834.894043, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-801.032715, 1834.894043, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-757.293884, 1834.894043, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-739.802246, 1777.566528, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-581.984924, 1777.566528, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-406.084076, 1740.406372, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-428.246185, 1646.072876, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-446.239929, 1551.310669, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-915.975647, 1740.406372, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-892.802551, 1646.072876, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-875.032959, 1551.310669, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-591.026917, 1575.552612, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_interior_column_lrg.MOD at (-730.857056, 1576.879883, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_shrine_supports.MOD at (-1774.180298, 3035.521973, 377.037140)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_shrine_supports.MOD at (-1774.180298, 3035.521973, 377.037140)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_shrine_supports.MOD at (-1774.180298, 3035.521973, 377.037140)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_shrine_supports.MOD at (-1774.180298, 3035.521973, 377.037140)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_shrine_supports.MOD at (-1774.180298, 3035.521973, 377.037140)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_shrine_supports.MOD at (-1774.180298, 3035.521973, 377.037140)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_shrine_platform.MOD at (-1774.180298, 3045.339600, 377.242523)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-7.253049, -96.587471, 10.289253)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1826.831177, 3035.521973, 390.788086)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1805.096558, 3077.968994, 390.788086)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1743.251099, 3078.156982, 390.788086)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1721.512329, 3035.535645, 390.788086)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1743.251099, 2992.983643, 390.788086)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1805.096558, 2992.795654, 390.788086)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1721.044312, 2831.338379, 361.771759)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1826.305420, 2752.315186, 360.584198)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1773.687134, 2629.068115, 361.518311)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1650.478638, 2722.666992, 363.060455)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1507.092163, 2803.308105, 340.473541)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1514.172607, 2834.548340, 340.473541)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1527.853271, 2921.248535, 330.948578)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1496.542480, 2931.238037, 328.869843)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1325.320557, 1199.138794, 287.291687)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1325.388428, 1249.016602, 287.308075)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1255.042847, 3024.130371, 298.625061)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1255.042847, 2994.144775, 296.946564)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-901.671509, 2488.059570, 287.086670)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-893.819824, 2411.083740, 287.265747)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-978.013428, 2478.746582, 287.086670)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-969.694458, 2403.280762, 287.086670)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-352.318542, 2403.316162, 287.265747)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-344.381409, 2479.144043, 287.265747)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-419.783142, 2488.245605, 287.265747)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-428.749634, 2412.417725, 287.265747)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-149.980042, 3024.431641, 292.535217)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-84.574799, 3032.734131, 292.569763)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1.443741, 3020.865723, 292.521576)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (101.713913, 2999.287354, 292.574158)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (95.512199, 3071.709473, 296.943756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (66.349442, 3088.485840, 296.943756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-27.964132, 3110.039795, 296.943756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-61.801113, 3110.039795, 296.943756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-126.351440, 3088.297852, 296.943756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-155.392319, 3072.011963, 296.943756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-4.628059, 78.809128, 10.289253)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (28.838636, 27.334284, 11.919420)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (32.024734, -32.160320, 11.969109)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1413.553467, 1249.016602, 287.308075)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1413.485596, 1199.138794, 287.291687)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1979.764160, 1359.358398, 287.308075)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1979.696289, 1309.480591, 287.291687)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1891.599121, 1359.358398, 287.308075)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-1891.531250, 1309.480591, 287.291687)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (2.611778, 462.799469, 28.931845)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (2.611778, 421.174255, 28.931845)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-314.047455, 712.399231, 67.714928)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brassbrazier.MOD at (-357.077820, 712.399231, 67.714928)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-69.192093, 1205.724487, 66.582779)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-64.607544, 1205.744629, 66.535339)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-45.593147, 1314.168945, 66.738266)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-45.903687, 1319.040649, 66.745758)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-45.903687, 1316.289307, 70.276215)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-791.552124, 2300.448730, 66.744698)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-796.423706, 2300.138184, 66.752205)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-793.672485, 2300.138184, 70.282661)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-142.797424, 1332.033081, 66.738266)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-143.107971, 1336.904785, 66.745758)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcrate.MOD at (-143.107971, 1334.153442, 70.276215)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_bucket.MOD at (-101.261475, 1201.709717, 64.956429)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_bucket.MOD at (-46.219112, 1316.833130, 72.002686)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_bucket.MOD at (-794.216187, 2299.822754, 72.009132)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_bucket.MOD at (-143.423401, 1334.697266, 72.002686)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-86.485046, 1206.269897, 66.774742)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-117.517204, 1256.589966, 66.629524)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-44.771851, 1251.398438, 66.779182)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-48.445065, 1252.528442, 66.628479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-45.250343, 1298.993774, 66.766937)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-3.850372, 1367.463257, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-3.850372, 1370.380615, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-12.172886, 1371.078613, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-253.624420, 1567.000000, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-253.624420, 1588.628662, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-261.946930, 1589.326660, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-193.508850, 1760.891235, 66.763756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-190.591614, 1760.891357, 66.763756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-189.893616, 1769.213867, 66.652672)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-170.896759, 1770.277588, 66.652672)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-83.734421, 1948.842407, 66.652679)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-82.539597, 1921.481812, 66.652679)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-74.276169, 1907.314209, 66.763763)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-74.275925, 1904.396973, 66.763763)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-94.300110, 1904.382935, 66.763763)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-91.382629, 1904.383179, 66.763763)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-185.088470, 2096.592773, 66.652679)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-646.192078, 2304.732910, 66.740128)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-648.827881, 2304.732910, 66.740128)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-609.005981, 2296.636475, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-601.598633, 2289.818115, 66.740128)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-604.515869, 2289.818115, 66.740128)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-605.213867, 2281.495605, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-539.035645, 2285.749756, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-776.727600, 2300.791504, 66.792519)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-851.317017, 2237.018555, 66.715523)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-852.446899, 2234.661865, 66.738960)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-852.446899, 2281.532715, 66.761032)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-762.100891, 2300.791504, 66.792519)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-759.288025, 2300.791504, 66.792519)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-759.288025, 2296.640869, 66.792519)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1232.520020, 1743.685303, 66.581924)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1233.583984, 1781.120728, 66.670891)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1241.906250, 1781.818970, 66.781975)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1241.906494, 1784.735962, 66.781975)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1251.141479, 1622.579102, 66.802414)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1254.058960, 1622.578613, 66.802414)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1279.192383, 1613.029053, 66.619713)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1276.392578, 1612.952271, 66.619713)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1277.826538, 1610.777954, 66.619713)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-546.576050, 1611.788330, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-546.576050, 1614.705688, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-530.553406, 1615.071289, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-546.576050, 1656.120361, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-544.697266, 1635.920166, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-523.884094, 1653.371582, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-546.576050, 1569.250732, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-544.697266, 1555.458862, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-528.526489, 1569.534790, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-596.577698, 1603.356445, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-594.946655, 1615.731323, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-594.153259, 1613.107422, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-602.426147, 1569.250732, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-600.547363, 1555.458862, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-586.852356, 1569.534790, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-602.426147, 1648.900757, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-600.547363, 1635.108887, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-586.852356, 1649.184814, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-677.346497, 1613.101563, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-677.677063, 1594.888550, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-678.487244, 1597.507324, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-734.835022, 1598.966797, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-734.936523, 1616.396484, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-734.125183, 1613.778076, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-674.405640, 1655.659546, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-679.995850, 1642.160522, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-663.825073, 1656.236450, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-737.724731, 1651.765625, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-735.845947, 1637.973755, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-722.150879, 1652.049683, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-687.386780, 1572.470947, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-687.386780, 1575.388306, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-671.248962, 1575.753906, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-718.370789, 1558.070923, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-720.233521, 1571.864990, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-736.420654, 1557.807861, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-807.410095, 1805.231445, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-759.303711, 1198.831055, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-762.220703, 1198.787842, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-766.194397, 1214.302246, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-744.445435, 1174.108521, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-758.210327, 1172.041260, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-743.914551, 1151.511353, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-536.766296, 1179.378052, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-533.848999, 1179.364868, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-529.818665, 1165.395020, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-545.097717, 1225.688965, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-531.483215, 1225.681274, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-534.110657, 1224.899658, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1070.064697, 1673.527832, 66.802414)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1067.147217, 1673.528320, 66.802414)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1077.898071, 1342.592041, 66.581924)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1160.268066, 1393.944458, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1160.272583, 1391.027100, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-1151.951050, 1390.316528, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-142.174225, 1306.789551, 66.766937)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-231.288742, 1273.395752, 66.628479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-231.553314, 1270.798340, 66.779182)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-609.396484, 2010.120117, 66.779182)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-609.661621, 2007.522705, 66.628479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-693.998718, 2024.449951, 66.629524)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-735.990784, 2023.305542, 66.628479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-739.663757, 2024.436279, 66.779182)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-531.833679, 1600.673706, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-531.833679, 1596.920288, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-596.882446, 1612.444458, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-681.924316, 1558.630615, 66.629044)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrel.MOD at (-675.902222, 1598.518677, 66.740120)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-100.583046, 1205.115356, 66.911407)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-110.278114, 1257.589233, 66.916786)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-45.679016, 1256.639282, 66.908531)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-35.895378, 1265.344604, 66.846504)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-6.573932, 1352.033447, 66.907455)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-258.956390, 1606.521851, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-254.458313, 1596.197754, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-183.022522, 1761.959229, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-165.407089, 1761.818359, 66.913116)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-75.416061, 1956.281128, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-192.527435, 2104.911133, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-647.894226, 2289.052979, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-640.958313, 2303.756836, 66.914040)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-546.343750, 2285.073242, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-555.500427, 2288.984131, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-851.372925, 2274.293457, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-845.853638, 2235.127686, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-838.500610, 2225.343994, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-1240.838379, 1736.246338, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-1283.768433, 1621.347412, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-1292.080566, 1599.296387, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-1311.427979, 1603.552124, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-543.288086, 1615.708740, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-535.462280, 1595.752563, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-530.905579, 1654.009033, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-539.710083, 1632.777710, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-535.547974, 1570.172241, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-539.710083, 1552.316406, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-591.658691, 1616.734375, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-595.663147, 1595.772461, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-685.774658, 1589.287842, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-595.560181, 1552.316406, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-595.560181, 1631.966431, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-680.958557, 1593.864502, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-676.841492, 1620.204590, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-726.841492, 1622.000854, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-731.655518, 1617.421997, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-733.871704, 1591.864258, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-670.846558, 1656.873901, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-675.008667, 1639.018066, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-730.858765, 1634.831299, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-684.098816, 1576.391357, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-674.692444, 1558.381836, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-729.399902, 1557.162231, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-725.217041, 1575.013184, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-766.727600, 1207.272095, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-742.610413, 1211.116943, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-743.373169, 1158.540894, 66.903778)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-761.284241, 1167.011597, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-528.908203, 1172.458618, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-550.886047, 1172.672485, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-530.494934, 1222.388916, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-552.210876, 1224.806274, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-1191.897461, 1606.711426, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-1055.253906, 1672.462891, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-1069.609863, 1350.064575, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-1159.450195, 1383.456787, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-253.393524, 1273.532837, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-600.584351, 2007.506714, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-701.238037, 2023.340454, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-738.757813, 2019.195313, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-766.368652, 1200.799805, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-543.185425, 1591.052490, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_cratepack_ext.MOD at (-673.745544, 1608.344116, 66.907417)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-99.602966, 1252.052124, 66.621597)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-45.221786, 1292.076294, 66.657036)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-4.888714, 1360.311279, 66.662300)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-253.748901, 1558.630005, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-253.748901, 1555.120361, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-208.665985, 1761.056274, 66.663139)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-212.175507, 1761.056274, 66.717461)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-74.491745, 1919.078247, 66.663147)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-75.734116, 1915.568726, 66.717468)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-74.511292, 1941.897583, 66.663147)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-75.753662, 1938.388062, 66.717468)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-178.143646, 2105.815674, 66.663147)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-174.634369, 2104.573486, 66.717468)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-616.814575, 2304.483887, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-613.305054, 2304.483887, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-594.446533, 2288.779785, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-590.937012, 2288.779785, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-561.170898, 2289.722168, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-769.459351, 2300.444336, 66.746284)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-851.793091, 2289.051514, 66.617279)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1240.868164, 1791.888306, 66.681358)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1239.625732, 1795.397583, 66.735680)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1241.743164, 1750.630127, 66.592392)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1240.500732, 1754.139404, 66.646713)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1269.384644, 1622.252197, 66.724091)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1265.875366, 1621.009766, 66.690361)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1281.886597, 1614.005493, 66.690361)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1284.865112, 1611.772339, 66.724091)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1302.156006, 1614.585815, 66.682678)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-549.169800, 1601.126709, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-549.169800, 1604.636353, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-547.614380, 1642.613525, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-547.614380, 1646.123047, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-547.614380, 1555.743896, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-547.614380, 1559.253418, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-603.464478, 1555.743896, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-603.464478, 1559.253418, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-603.464478, 1635.393921, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-603.464478, 1638.903442, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-738.763062, 1638.258789, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-738.763062, 1641.768311, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-688.425110, 1561.809326, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-688.425110, 1565.318970, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-717.316711, 1571.576538, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-717.320801, 1568.067017, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-748.627808, 1197.951050, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-752.137085, 1197.899048, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-757.965210, 1174.962036, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-754.456055, 1175.010010, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-547.423157, 1180.464111, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-543.913574, 1180.448364, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1177.513672, 1607.616211, 66.724091)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1174.004395, 1606.373779, 66.690361)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1068.646973, 1316.648804, 66.592392)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1068.686035, 1319.850952, 66.646713)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1160.189087, 1401.094849, 66.639511)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-1160.183716, 1404.604492, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-142.426071, 1299.608154, 66.657036)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-684.832764, 2024.034912, 66.621597)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-743.114136, 1203.785156, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-742.727478, 1200.553711, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_grains.MOD at (-685.346680, 1558.538452, 66.693832)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-102.818481, 1251.785522, 66.626221)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-72.797897, 1251.604248, 66.632896)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-45.502106, 1288.132690, 66.688263)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-45.502106, 1296.303467, 66.593048)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-5.169033, 1364.538452, 66.719231)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-253.749908, 1562.857178, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-173.027695, 1761.078857, 66.595863)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-74.556213, 1948.660522, 66.595856)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-184.906830, 2105.770996, 66.595856)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-621.041870, 2304.508545, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-598.673828, 2288.499268, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-773.686646, 2300.539551, 66.712372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-765.515991, 2300.164063, 66.733696)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-852.241089, 2256.458252, 66.703476)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-852.059692, 2292.267090, 66.680550)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-1241.698242, 1743.866943, 66.525101)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-1276.147827, 1622.207275, 66.656799)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-1288.574585, 1606.116943, 66.656799)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-1306.791138, 1609.660400, 66.696541)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-549.450073, 1608.863525, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-547.894653, 1653.195557, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-547.776306, 1649.204956, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-547.894653, 1566.325928, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-547.776306, 1562.335327, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-603.744751, 1566.325928, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-603.626404, 1562.335327, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-603.744751, 1645.975952, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-603.626404, 1641.985352, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-739.043335, 1648.840820, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-738.924927, 1644.850220, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-688.705383, 1569.546143, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-717.048767, 1560.994141, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-717.162476, 1564.984985, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-756.359619, 1197.556030, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-747.387939, 1175.386963, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-751.376709, 1175.214111, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-539.685181, 1180.709717, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-1184.276855, 1607.571289, 66.656799)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-1068.719238, 1342.447510, 66.525101)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-1159.915161, 1396.867310, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-142.706390, 1295.664551, 66.688263)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-142.706390, 1303.835327, 66.593048)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-228.639786, 1271.004150, 66.632896)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-612.310059, 2009.914917, 66.632896)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-681.617249, 2024.300781, 66.626221)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-711.637756, 2024.211182, 66.632896)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-546.556335, 1639.401001, 66.572235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskmarket_beans.MOD at (-852.241089, 2252.596191, 66.703476)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-92.302063, 1206.290283, 64.969070)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-89.215446, 1205.423218, 64.969070)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-95.099754, 1251.171143, 64.957321)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-79.743134, 1251.069214, 64.944427)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-13.818125, 1350.861084, 65.003815)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-254.147980, 1551.947754, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-215.959686, 1760.980591, 64.958107)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-74.454758, 1911.784546, 64.958099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-74.578171, 1922.276123, 64.958099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-74.023010, 1925.230957, 64.958099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-74.323792, 1945.095459, 64.958099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-97.156998, 1905.589600, 64.958099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-100.006569, 1905.233765, 64.958099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-181.341644, 2106.003418, 64.958099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-170.850189, 2106.003174, 64.958099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-608.939331, 2304.661865, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-587.152832, 2288.967285, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-851.623657, 2284.548340, 64.966232)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-847.076050, 2271.463867, 64.915298)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1241.055664, 1799.181763, 64.976311)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1245.434937, 1621.728027, 65.014099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1241.055664, 1788.690308, 64.976311)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1241.930664, 1757.923584, 64.887344)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1241.930664, 1747.432129, 64.887344)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1248.284546, 1621.372559, 65.014099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1272.582642, 1622.439697, 64.989182)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1262.091187, 1622.439697, 64.930565)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1286.792969, 1609.213867, 64.989182)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1281.945068, 1610.390015, 64.930565)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-542.753601, 1594.522827, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-534.125000, 1599.102295, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-536.394287, 1599.102295, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-546.962158, 1633.299683, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-534.239502, 1634.097656, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-536.508850, 1634.097656, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-546.962158, 1552.838379, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-534.239502, 1553.636353, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-536.508850, 1553.636353, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-601.086670, 1562.380859, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-590.089600, 1554.635376, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-592.358948, 1553.636353, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-601.086670, 1642.030884, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-590.089600, 1634.285400, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-592.358948, 1633.286377, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-682.260742, 1639.540039, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-669.538086, 1640.338013, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-671.807373, 1640.338013, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-736.385254, 1644.895752, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-725.388184, 1637.150269, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-727.657471, 1636.151245, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-688.244629, 1558.903809, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-673.355164, 1561.731567, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-675.624512, 1561.731567, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-717.965576, 1574.482788, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-730.689148, 1573.699585, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-728.419800, 1573.697021, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-745.732300, 1198.646362, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-745.979675, 1212.404419, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-745.945984, 1210.135254, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-760.861511, 1174.270142, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-759.889587, 1161.559570, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-759.920715, 1163.828735, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-550.331543, 1179.824951, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-547.542358, 1171.320190, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-547.532166, 1173.589478, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1180.711670, 1607.803711, 64.989182)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1170.220215, 1607.803711, 64.930565)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1061.440674, 1672.677246, 65.014099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1064.290283, 1672.321777, 65.014099)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1068.530029, 1322.747070, 64.887344)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1068.472412, 1338.883301, 64.887344)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-1160.207520, 1408.388672, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-689.336060, 2023.866333, 64.957321)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-702.421509, 2019.321899, 64.944427)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-675.624512, 1603.320313, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-676.114441, 1600.934814, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-253.787628, 1569.691406, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-253.265656, 1573.092773, 64.934479)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-852.794800, 2249.745117, 64.915298)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_chairhuman_ext.MOD at (-852.794800, 2242.285156, 64.915298)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-257.877686, 1588.035034, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-81.572319, 1206.049927, 64.976952)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-44.592350, 1308.734131, 64.974258)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-190.158752, 1764.168091, 64.930504)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-168.195892, 1771.650024, 64.961105)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-85.106735, 1951.543335, 64.961105)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-85.059860, 1921.435547, 65.018890)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-88.318802, 1905.528687, 65.018890)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-187.789642, 2095.220459, 64.961105)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-641.093262, 2300.423584, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-604.948730, 2286.541260, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-555.926514, 2285.575439, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-786.117310, 2301.449219, 64.977631)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-1231.147705, 1740.984131, 64.890350)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-1238.629639, 1781.385864, 64.967575)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-1257.122925, 1621.433105, 64.979759)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-1287.600586, 1599.017334, 64.955185)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-530.479675, 1610.903198, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-525.360046, 1649.357056, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-525.360046, 1642.706909, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-530.002441, 1565.520264, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-530.002441, 1558.870117, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-588.295471, 1593.282227, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-582.225220, 1593.282227, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-582.714783, 1617.323730, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-590.893188, 1568.204346, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-596.358154, 1569.545410, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-590.893188, 1647.854370, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-596.358154, 1649.195435, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-682.147217, 1622.658325, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-688.217285, 1622.619385, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-690.384460, 1592.652710, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-728.153687, 1589.413086, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-722.083557, 1589.454834, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-722.230164, 1618.638062, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-665.301025, 1652.221924, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-663.935059, 1647.830688, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-726.191772, 1650.719238, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-731.656738, 1652.060303, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-671.175293, 1571.585815, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-734.940002, 1561.820679, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-734.932312, 1568.470825, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-877.068604, 1745.931274, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-870.998474, 1745.970215, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-889.102844, 1737.789673, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-892.620667, 1732.842529, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-891.402954, 1714.654053, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-874.533386, 1703.957397, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-855.672180, 1733.861206, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-853.097290, 1720.373169, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-855.537598, 1714.814941, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-812.516724, 1814.386841, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-847.343933, 1808.024780, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-828.393311, 1784.654419, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-826.976318, 1823.521729, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-809.941833, 1800.898804, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-847.011353, 1796.412964, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-848.846191, 1802.310669, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-833.046448, 1823.482910, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-438.915283, 1797.045410, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-469.914276, 1797.748535, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-452.381897, 1804.203857, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-436.340393, 1778.877808, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-473.648529, 1774.391968, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-458.452026, 1804.165039, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-861.492432, 1342.386841, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-855.422363, 1342.425781, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-871.805908, 1336.354980, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-840.762451, 1320.423584, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-843.202759, 1314.865356, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-858.957275, 1308.279663, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-843.337280, 1333.911621, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-873.108887, 1315.937744, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-875.323730, 1331.407837, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-493.181458, 1266.602173, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-491.915344, 1272.538818, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-487.652924, 1251.056641, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-465.526764, 1283.402100, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-460.622650, 1279.824585, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-453.743500, 1262.041626, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-479.253021, 1282.963257, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-467.587128, 1245.594604, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-483.577118, 1246.558105, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-762.027893, 1214.437744, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-747.948914, 1152.932251, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-753.953430, 1151.750244, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-533.987061, 1165.339966, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-554.726624, 1219.116333, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-554.753845, 1213.046143, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-529.385864, 1212.950317, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-1073.128662, 1672.382324, 64.979759)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-1079.281250, 1345.287720, 64.890350)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-1156.996582, 1390.589355, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-141.792725, 1326.598267, 64.974258)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-758.832947, 1157.440552, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-536.030273, 1653.471680, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-530.479675, 1604.947388, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_hbenchext.MOD at (-596.466309, 1608.180420, 64.995255)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_bucketint.MOD at (253.514313, -364.994965, 16.932680)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_bucketint.MOD at (280.700470, -388.141907, 16.901951)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (250.159607, -367.661224, 18.740952)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (247.829910, -369.112305, 18.740952)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (247.829910, -374.854340, 18.698536)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (230.034195, -374.854340, 18.730547)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (342.063538, -387.599915, 19.247770)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (348.135101, -387.599915, 18.735006)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (348.135101, -381.857880, 18.740952)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (350.464783, -380.406799, 18.826359)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (310.065552, -448.037140, 18.777138)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (307.735870, -449.488220, 18.836132)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (306.769073, -451.933228, 19.030350)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (300.697510, -451.933228, 19.118633)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_barrelint.MOD at (310.065552, -441.236603, 18.708639)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_col.MOD at (-660.893555, 1834.894531, 299.798706)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_col.MOD at (-660.893555, 1834.894531, 299.798706)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_col.MOD at (-660.893555, 1834.894531, 299.798706)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_col.MOD at (-660.893555, 1834.894531, 299.798706)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_col.MOD at (-660.893555, 1834.894531, 299.798706)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_col.MOD at (-660.893555, 1834.894531, 299.798706)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_smbrazier.MOD at (-633.830383, 1798.486450, 301.376526)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_smbrazier.MOD at (-633.830383, 1835.444214, 301.376526)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_smbrazier.MOD at (-688.499878, 1835.444214, 301.376526)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_smbrazier.MOD at (-688.499878, 1798.486450, 301.376526)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_understrut.MOD at (-660.893066, 1362.455078, 68.328033)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_center_marketplace.MOD at (-660.893066, 1362.455078, 69.758484)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_wall.MOD at (-180.133636, 1233.271240, 81.985977)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_wall.MOD at (-155.610001, 1373.791138, 81.985977)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_wall.MOD at (-220.681549, 1998.721436, 81.985977)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_wall.MOD at (-576.668579, 2054.226807, 81.985977)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_wall.MOD at (-577.134399, 2131.209717, 81.985977)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_wall.MOD at (-665.226807, 2041.834839, 81.985977)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_wall.MOD at (-1081.444458, 1276.715088, 81.985977)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_wall.MOD at (-1239.679565, 1327.650757, 81.985977)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_topdome_fluff.MOD at (-660.892944, 1364.742188, 805.788330)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_exteriorbase.MOD at (-639.074341, 1680.245239, 302.480743)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_interiordome.MOD at (-660.891663, 1336.225220, 409.402588)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_temple_intertower.MOD at (-660.893127, 1362.456055, 409.637207)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdocks_office.MOD at (-660.893555, 1682.295898, 413.350952)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_entry.MOD at (-660.893555, 1752.879150, 348.220978)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_medbrazier.MOD at (-640.677551, 1718.429443, 303.256836)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_medbrazier.MOD at (-681.057068, 1718.429443, 303.256836)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-968.382263, 46.077698, 122.047295)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-976.789001, 84.176941, 122.047295)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-1466.093018, 84.176941, 120.588188)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-1466.093018, -643.377991, 121.657524)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-1483.813721, -712.052795, 121.657524)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-1013.593994, -596.560120, 121.430473)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-1002.873657, -650.294128, 121.657524)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-927.191040, -647.213074, 120.570122)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosktree.MOD at (-1546.958984, -648.484192, 121.657524)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierext.MOD at (-541.948486, 1318.887207, 69.566490)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierext.MOD at (-541.948486, 1406.222168, 69.566490)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierext.MOD at (-778.915710, 1406.222168, 69.566490)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierext.MOD at (-778.915710, 1318.887207, 69.566490)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierext.MOD at (-705.015320, 1244.108765, 69.566490)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierext.MOD at (-616.809265, 1244.108765, 69.566490)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierext.MOD at (-616.809265, 1481.011841, 69.566490)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_brazierext.MOD at (-705.015320, 1481.011841, 69.566490)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_altar.MOD at (-1801.576294, 3035.307617, 381.919006)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_altar.MOD at (-1748.023193, 3041.174561, 381.919006)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_altar.MOD at (-1789.324341, 3061.204102, 381.919006)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_altar.MOD at (-1763.748901, 3064.757324, 381.919006)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_altar.MOD at (-1754.868530, 3013.737793, 381.919006)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_altar.MOD at (-1787.277344, 3011.116699, 381.919006)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_powersource.MOD at (-1801.576172, 3035.307373, 389.707581)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_powersource.MOD at (-1748.023071, 3041.174316, 393.034729)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_powersource.MOD at (-1789.324097, 3061.203857, 391.494690)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_powersource.MOD at (-1763.748535, 3064.757324, 389.707581)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_powersource.MOD at (-1754.868164, 3013.737793, 391.494690)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_powersource.MOD at (-1787.276978, 3011.116699, 389.789612)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1734.633911, 2802.109375, 361.503235)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1734.633911, 2771.367676, 359.538391)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1752.081909, 2759.830566, 363.084412)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1764.243652, 2732.941895, 364.015076)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1739.791504, 2682.974609, 362.517029)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1687.500610, 2734.965332, 361.909607)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1792.980957, 2653.417480, 359.015015)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1714.359863, 2620.198975, 360.455566)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1735.632568, 2610.186768, 360.455566)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_lrg.MOD at (-1809.942139, 2691.391846, 359.678223)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1738.086670, 2769.792725, 359.061188)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1759.726318, 2735.886963, 360.595367)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1777.857910, 2745.022705, 360.122650)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1783.892334, 2783.502197, 358.300385)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1787.249756, 2783.502197, 358.300385)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1789.697754, 2711.804199, 360.007629)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1787.290527, 2708.264893, 360.164856)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1703.390869, 2708.277588, 360.213470)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1691.157227, 2660.265869, 357.678589)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1686.038574, 2659.365479, 359.020538)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1745.047485, 2684.180908, 359.097321)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1692.756592, 2736.171875, 358.489899)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1796.398193, 2651.864502, 358.280609)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_med.MOD at (-1807.496216, 2694.661865, 359.626770)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1736.801880, 2800.142822, 358.928040)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1749.737793, 2758.077637, 360.509216)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1751.290527, 2764.411621, 358.434509)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1738.470337, 2773.338379, 358.724060)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1763.452148, 2737.741699, 359.467957)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1775.233643, 2747.425537, 359.708496)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1781.268066, 2785.905029, 357.886230)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1784.644897, 2710.680176, 360.169464)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1700.766602, 2710.680420, 359.799316)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1688.526855, 2662.210693, 358.546326)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1743.795532, 2680.211914, 357.969910)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1691.504639, 2732.202637, 357.672058)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1796.769897, 2655.420898, 358.068756)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1824.566895, 2725.312988, 358.560486)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_discord_rubble_sml.MOD at (-1743.833496, 2622.399902, 359.284973)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tunnelarchway.MOD at (-1458.392944, 2769.971191, 340.555908)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tunnelarchway.MOD at (334.681885, 1675.288452, 172.879532)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_tower.MOD at (-222.443634, 1815.899048, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_tower.MOD at (-1069.293213, 1383.284424, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_large.MOD at (-140.875366, 1292.676025, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_large.MOD at (-148.148071, 2018.332520, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_large.MOD at (-562.399780, 2050.094727, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_med.MOD at (-170.344635, 1356.911255, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_med.MOD at (-591.869019, 2114.329834, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_med.MOD at (-293.214996, 2050.828125, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_tower.MOD at (-589.675049, 2063.797363, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_rht.MOD at (-269.119019, 1630.162598, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_rhtback.MOD at (-86.913696, 1961.040771, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_back.MOD at (-538.192383, 2291.320557, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_left.MOD at (-1235.437988, 1624.053589, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_blocklft.MOD at (-1025.188477, 1674.870972, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_blocklft.MOD at (-1161.717407, 1412.268188, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_rhtfront.MOD at (-165.399048, 1255.233765, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_blockrht.MOD at (-256.336761, 1411.303955, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_toskcity_blockrht.MOD at (-741.429932, 2219.867676, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_cityblock_largemirr.MOD at (-1067.145630, 1355.175659, 65.031372)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-701.183716, 1722.710205, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-705.067078, 1715.116943, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-708.907898, 1707.560913, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-612.870300, 1707.662842, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-616.723389, 1715.271484, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-620.571411, 1722.823853, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-646.846313, 1587.678955, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-638.428040, 1586.312012, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-630.057983, 1584.974243, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-622.025574, 1583.707764, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-673.461609, 1587.856934, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-681.488098, 1586.553345, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-689.857605, 1585.212158, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-698.282043, 1583.883545, 274.356415)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-729.827759, 1834.608765, 299.818085)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-729.827759, 1827.932739, 299.818085)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-729.827759, 1841.242920, 299.818085)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-592.464172, 1841.242920, 299.818085)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-592.464172, 1834.608765, 299.818085)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chair.MOD at (-592.464172, 1827.932739, 299.818085)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-899.710632, 1679.646118, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-901.877563, 1688.694458, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-903.958618, 1697.498291, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-906.172180, 1706.604980, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-885.759094, 1614.299805, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-883.989746, 1605.096436, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-882.338013, 1596.202148, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-880.612488, 1587.059326, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-441.261078, 1587.031372, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-439.532593, 1596.242676, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-437.808014, 1605.123047, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-436.060974, 1614.261597, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-422.206573, 1679.334717, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-420.069397, 1688.459839, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-417.950897, 1697.254639, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-415.798401, 1706.306274, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-566.809387, 1566.131714, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-558.454163, 1561.885986, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-550.415466, 1557.736938, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-542.135254, 1553.493774, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-779.918213, 1553.276611, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-771.587402, 1557.570190, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-763.520142, 1561.663452, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-755.235352, 1565.897705, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-665.096130, 1904.208618, 299.798645)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-656.661499, 1904.208618, 299.798645)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-642.389099, 1891.242920, 299.798645)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_mrdck_chairbench.MOD at (-679.258728, 1891.361816, 299.798645)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_mainchair.MOD at (-660.880432, 1861.661499, 299.793945)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-94.021515, 1200.662720, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-73.790199, 1200.662720, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-98.928741, 1256.823242, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-75.728546, 1256.823242, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-55.739197, 1256.823242, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-212.327271, 1276.429810, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-225.160278, 1276.429810, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-147.730835, 1301.698730, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-50.481140, 1301.698730, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-9.268005, 1365.811279, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-258.982483, 1562.603027, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-216.988342, 1766.311768, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-184.672256, 1766.311768, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-164.956970, 1766.311768, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-95.128998, 1909.779785, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-79.683807, 1915.829346, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-79.683807, 1954.802246, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-191.009842, 2100.488770, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-614.202271, 2004.858643, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-628.539917, 2004.858643, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-687.252747, 2019.076904, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-730.966858, 2019.076904, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-717.925354, 2019.076904, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-599.750732, 2284.472168, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-613.194824, 2299.355469, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-772.647583, 2295.604980, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-847.024536, 2286.216553, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-847.024536, 2253.050781, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-847.024536, 2239.923340, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-1236.617188, 1786.523804, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-1236.617188, 1737.740601, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-1270.531738, 1617.234009, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-1178.981812, 1602.531372, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-1154.933838, 1395.776001, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-1073.903076, 1348.544312, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_marketplace_awning.MOD at (-1073.903076, 1314.430054, 66.780731)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_desk.MOD at (-660.893555, 1851.223755, 299.798706)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_prisongate.MOD at (-45.259659, 3140.719238, 265.670929)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_crimsondoor.MOD at (61.769135, 165.483887, -119.011185)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_prisongate_entry.MOD at (-120.134064, 2932.599121, 241.994598)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (-358.657654, 830.611084, 64.564400)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (-318.040405, 830.611084, 64.564400)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (105.096863, 1512.281494, 64.901718)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (122.261642, 1475.466553, 64.901718)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (-1701.802612, 1095.646240, 64.891693)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (-1701.802612, 1055.002930, 64.891693)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (-1335.721191, 1507.251953, 64.891693)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (-1335.721191, 1547.895264, 64.891693)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (-1304.255737, 2112.491699, 64.891693)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tskentry_statue_ext.MOD at (-1304.255737, 2153.134766, 64.891693)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_brazier.MOD at (-718.423462, 1721.271973, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_brazier.MOD at (-602.997681, 1721.271973, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_brazier.MOD at (-476.977539, 1807.574463, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_brazier.MOD at (-842.755737, 1807.574463, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_brazier.MOD at (-704.780518, 1878.564697, 299.690704)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_murdock_brazier.MOD at (-616.589905, 1878.564697, 299.690704)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_centerpost_statue.MOD at (-599.208984, 1301.011353, 299.705444)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_centerpost_statue.MOD at (-722.236267, 1301.011353, 299.705444)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_centerpost_statue.MOD at (-722.697205, 1424.230225, 299.705444)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_centerpost_statue.MOD at (-599.155334, 1424.146729, 299.705444)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-581.790466, 1606.188232, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-690.887573, 1607.154907, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-717.415039, 1603.528809, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-873.802734, 1725.135376, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-827.662659, 1805.661011, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-455.186157, 1783.640015, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-857.063599, 1325.185791, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-473.421783, 1266.387451, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_tosk_firering_ext.MOD at (-542.208496, 1209.440674, 64.972801)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_kor_portal.MOD at (-168.326813, -1592.782471, 430.208191)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-660.893005, 1364.742188, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-660.893005, 1361.953369, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-660.893005, 1364.742188, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-660.893005, 1364.742188, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-660.893005, 1364.742188, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-660.893005, 1364.742188, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-662.775696, 1362.311035, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-658.576355, 1362.894653, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-657.698303, 1361.596069, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-664.344971, 1361.596069, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBJ_female_brazier_int.MOD at (-660.893005, 1364.742188, 274.342285)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_temple_basebck_rht.MOD at (-307.884338, 1882.138428, 123.955627)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_temple_basefrnt_rht.MOD at (-417.053223, 1080.028442, 123.955627)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_temple_basefrnt_lft.MOD at (-904.733032, 1080.028442, 123.955635)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_temple_basebck_lft.MOD at (-1013.901917, 1882.138428, 123.955627)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_templebase_statue.MOD at (-397.302368, 1056.336548, 92.986595)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_templebase_statue.MOD at (-924.483887, 1056.336548, 92.986603)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_templebase_statue.MOD at (-281.628967, 1900.663086, 92.986595)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_templebase_statue.MOD at (-1040.157227, 1900.663086, 92.986595)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_statuelft.MOD at (-1226.425049, -318.250977, 145.258911)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_statuelft.MOD at (-1226.425049, -318.250977, 145.258911)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_anchor.MOD at (-1226.425049, -318.250977, 145.258911)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_anchor.MOD at (-1226.425049, -318.250977, 145.258911)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_statuerht.MOD at (-1226.425049, -318.250977, 145.258911)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_statuerht.MOD at (-1226.425049, -318.250977, 145.258911)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_statuetorch.MOD at (-1277.726318, -94.567345, 386.216492)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_statuetorch.MOD at (-1175.638184, -94.567345, 386.216492)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_statuetorch.MOD at (-1175.638184, -543.452393, 386.216492)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_bridge_statuetorch.MOD at (-1277.726318, -543.452393, 386.216492)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toskcanyon.MOD at (0.000000, -0.000000, 0.000000)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_temple_sidearch.MOD at (-660.893005, 1364.742188, 855.062561)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_temple_sidearch.MOD at (-660.893005, 1364.742188, 855.062561)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosk_toptierfluff.MOD at (-660.893066, 1469.795898, 488.261566)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_femstatue_symbol.MOD at (-904.733032, 1082.681030, 556.546631)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_femstatue_symbol.MOD at (-416.622314, 1082.681030, 556.546631)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toptier_colfluff.MOD at (-915.871033, 1333.878784, 438.559387)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toptier_colfluff.MOD at (-959.504333, 1672.272705, 438.559387)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toptier_colfluff.MOD at (-979.822693, 1752.545288, 438.559387)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toptier_colfluff.MOD at (-915.871033, 1225.559814, 438.559387)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toptier_colfluff.MOD at (-405.852417, 1225.559814, 438.559387)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toptier_colfluff.MOD at (-405.852417, 1333.878784, 438.559387)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toptier_colfluff.MOD at (-361.992798, 1672.272705, 438.559387)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_toptier_colfluff.MOD at (-341.530640, 1752.545288, 438.559387)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_temple_ringext.MOD at (-660.893066, 1362.455078, 214.629028)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_archt_fluff.MOD at (-917.549316, 1504.187622, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_archt_fluff.MOD at (-404.236786, 1504.187622, 274.319824)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_topdome_smlfluff.MOD at (-660.893494, 1834.894287, 642.282349)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_topdome_towerfluff.MOD at (-473.181763, 1706.204712, 768.500488)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_topdome_towerfluff.MOD at (-843.540039, 1706.204712, 768.500488)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_interior_domefluff.MOD at (-660.893555, 1362.457031, 493.123932)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_longred.MOD at (-660.893555, 1742.339844, 532.294922)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_longred.MOD at (-901.809021, 1832.357178, 504.518188)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_longred.MOD at (-418.792633, 1832.357178, 504.518188)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_longblu.MOD at (-660.893555, 1587.091309, 477.302490)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_shrtblu.MOD at (-514.404419, 1370.905518, 469.042236)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_shrtblu.MOD at (-808.293030, 1370.905518, 469.042236)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_shrtblu.MOD at (-808.293030, 1353.453125, 469.042236)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_shrtblu.MOD at (-514.404419, 1353.453125, 469.042236)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-1430.194336, 35.380516, 120.805832)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-1458.543457, 63.251122, 115.452011)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-1457.459961, -692.174438, 120.044846)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-994.240601, -692.174438, 120.044846)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-981.390503, -669.485962, 114.507492)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-995.320679, 61.952965, 121.729721)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-965.486206, 114.626366, 121.729721)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-1016.605103, 6.454063, 121.729721)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-1547.200439, -691.244324, 120.044846)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosktree_sml.MOD at (-1529.923828, -671.714600, 114.507492)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-272.569702, 1097.197266, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-251.350830, 1172.452637, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-171.736496, 1057.741333, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-143.651062, 1130.596802, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-1070.156738, 1172.428955, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-1048.759888, 1097.223999, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-1178.110352, 1130.819092, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-1150.002808, 1057.767944, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-913.260437, 2040.631592, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-987.498108, 2016.088257, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-959.646973, 2145.541260, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-1031.924805, 2115.590820, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-1082.311890, 2215.192139, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-1012.082947, 2249.558350, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-334.295624, 2016.066650, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_ext.MOD at (-408.382507, 2040.950684, 166.974121)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_temple_frontarch.MOD at (-660.893066, 1159.983643, 64.927307)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_tosk_tierledge.MOD at (0.000000, -0.000000, 0.000000)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_small.MOD at (50.436401, 1301.455566, 357.095642)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_small.MOD at (-29.955444, 1223.894653, 357.095642)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_small.MOD at (-1446.584595, 1223.894653, 357.095642)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_small.MOD at (-1291.574585, 1223.894653, 357.095642)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_small.MOD at (-2012.519043, 1333.863770, 357.095642)
-[Trace][09/15/18 16:54:30] Adding placeable OBP_banner_small.MOD at (-1935.569336, 1256.813232, 357.095642)
-[Trace][09/15/18 16:54:30] Loading model it10800.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it10801.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it10802.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it10803.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it10804.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it10805.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11338.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11339.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11340.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11539.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11540.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11541.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11542.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11543.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11544.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11545.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11546.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11547.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11566.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11567.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11568.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11569.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11631.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model it11632.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
-[Trace][09/15/18 16:54:30] Loading model obj_voidportal.mod.
-[Trace][09/15/18 16:54:30] Parsing model materials.
-[Trace][09/15/18 16:54:30] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Attempting to load feerrott2.eqg as a standard eqg.
+[Warn][10/04/18 18:20:56] Unable to parse the zone file, is a eqgv4.
+[Trace][10/04/18 18:20:56] Attempting to load feerrott2.eqg as a v4 eqg.
+[Trace][10/04/18 18:20:56] Parsing zone file.
+[Trace][10/04/18 18:20:56] Parsing zone data file.
+[Error][10/04/18 18:20:56] Header info for feerrott.dat.eqg v4 21 0 12
+[Trace][10/04/18 18:20:56] Parsing zone terrain tiles.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_rocka.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_rockd.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_rocke.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_rockc.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_rockb.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_fern_full.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_treestump.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_bigoak.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_gnarledtree.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_felledtree.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_tree_tall.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_tree_dead.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_campfire.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_tent.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_obeliskb.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_deadtree.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_hangingtree.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_fob_tree_tall.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_pyramid_roof.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_obeliska.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_pyramid_hut.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loaded tog file feerott_waterfall.tog.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_waterfall_main.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_waterfall_rocka.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_waterfall_rockb.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_waterfall_water.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_stone_structure.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_2_cazic_thule.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_stone_structure_topless.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent_2oggok.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loaded tog file feerott_river_fence.tog.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_river_fence_arched.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_river_fence_straight.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loaded tog file feerrott_entrance_pof.tog.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent_pof_rockssm.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent_pof_rockr.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent_pof_rockl.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent_pof_brazier.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent_pof_tunnel.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_pof_deadtree.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_portal_2_pof.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_pof_ent_doorframe.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent_pof_strut.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_ent_pof.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_ent_pof_fauxbackdoor.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obp_feerrott_ent_pof_room.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_stone_dwelling.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_stone_structure_bowl.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_druid_circle.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_stone_structure_bed.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_stone_structure_chair.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent2thule_pillar.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_bbq.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loaded tog file feerrott_entrance_thule.tog.
+[Trace][10/04/18 18:20:56] Loading model obj_mansionwall_pillar.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_ent2thule_gate_main.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_door_2_thule.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_stone_shrine.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Loading model obj_feerrott_bridge.mod.
+[Trace][10/04/18 18:20:56] Parsing model materials.
+[Trace][10/04/18 18:20:56] Parsing model geometry.
+[Trace][10/04/18 18:20:56] Parsing water data file.
+[Trace][10/04/18 18:20:56] Adding infinite water sheet.
+[Trace][10/04/18 18:20:56] Parsing invisible walls file.
+[Trace][10/04/18 18:20:57] Loading model obj_corpse_lean.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_drdpyrsma.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_dread_bed.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_dread_bookslga.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_dread_chair.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_dread_table.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_everrockf.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_felbannera.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_felbannerb.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_felexttwr.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_human_cage_flip.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_humancage_hang.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_icea.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_morell_fogroom_arch.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_morell_staircol.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_td_lamp_wall.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tdream_lamphang.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_a01.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_a02.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_a03.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_a04.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_m00.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_m01.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_m02.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_m03.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent1_m04.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tentc_destruct_.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tentc_destruct_1.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tentc_destruct_2.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tentc_destruct_3.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tentccol.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_a01.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_a02.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_a03.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_a04.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_m00.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_m01.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_m02.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_m03.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent2_m04.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_a01.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_a02.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_a03.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_a04.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_m00.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_m01.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_m02.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_m03.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model dest_dev_tent3_m04.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tenta_destruct_.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tenta_destruct_1.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tenta_destruct_2.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_tentacol.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model obj_door_2_thule.mod.
+[Trace][10/04/18 18:20:57] Parsing model materials.
+[Trace][10/04/18 18:20:57] Parsing model geometry.
+[Trace][10/04/18 18:20:57] Loading model poktele500.mod.
+[Error][10/04/18 18:20:57] Unable to load poktele500.mod, file was not found.
+[Trace][10/04/18 18:20:57] Couldn't find model for POKTELE500.

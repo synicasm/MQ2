@@ -1,3 +1,31 @@
+Sep 25 2018 by eqmule
+- Updated for TEST
+
+Sep 21 2018 by eqmule
+- Updated for LIVE
+
+Sep 19 2018 by eqmule
+- Updated for LIVE
+- Fixed a bug with /advloot giveto
+- Cleaned up and completed the _EQCASTSPELLGEM struct, we have been using it wrong for years it seems.
+- TimeStamp in the EQCASTSPELLGEM has been removed and is now (correctly) part of the CBUTTONWND struct
+  it is named (correctly) CoolDownBeginTime there.
+
+- RecastTime in the EQCASTSPELLGEM has been removed and is now (correctly) part of the CBUTTONWND struct
+  it is named (correctly) CoolDownDuration there.
+
+- The 2 above changes means plugins might need to be edited if they used the old struct.
+  Here is an example of how to fix this:
+  change:
+  return g->TimeStamp + g->RecastTime - EQGetTime();
+  to:
+  return g->Wnd.CoolDownBeginTime + g->Wnd.CoolDownDuration - EQGetTime();
+- Started on adding support for the UF emu client, no eta for when it will build.
+- The EMU #define has been renamed to ROF2EMU
+- Added a #define for UFEMU
+  This means if you plugin was previously using #if defined(EMU) !defined or #ifdef or #ifndef
+  it need to to properly add in defined(ROF2EMU) && defined(UFEMU) or the !defined in the proper places
+
 Sep 12 2018 by SwiftyMUSE
 - Added Banker for searches.
 - Fixed .NumGems so it will give up to 14 based on your spellbar.

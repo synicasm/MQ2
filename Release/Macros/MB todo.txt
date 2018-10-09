@@ -1,10 +1,10 @@
 TODO
 [Traders] Fishing Fletching Jewelcraft Pottery Smithing Tailoring Alchemy Poison SpellReasearch Ti
-Baking - [Elcina 300] - Ozumzen
+Baking [T] - [Elcina 300] - Ozumzen
 Brewing - [Elcina 276] - Ozumzen
 Fishing - [Elcina 178] - Ozumzen
 Fletching - [Elcina 265] - Ozumzen
-Jewelcraft - [Elcina 300] - Ozumzen
+Jewelcraft [T] - [Elcina 300] - Ozumzen
 Pottery - [Elcina 217] - Ozumzen
 
 Smithing - [Elcina 300] - Lolenta
@@ -32,6 +32,14 @@ All - Recheck AA abilires
 all - melle=1 save for casters
 
 [SK]
+SK - Add Respite
+SK - Add Banshee Aura
+SK - Defy
+SK - Gorgon mantle / Gorgon carapase Ability
+SK - Repulsive sacrafice with lvl 1 pet ?
+SK - Stubborn Stance 
+SK - Curse of Enfeeblement
+SK - Dire Restriction Debuff / Dot
 SK - Reeval lift tap setup
 SK - Final Breath CA
 SK - Consider adding Steely Stance Spell Temp HP buff
