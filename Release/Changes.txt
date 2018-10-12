@@ -1,3 +1,11 @@
+Oct 10 2018 by eqmule
+- Updated for TEST
+
+Oct 01 2018 by eqmule
+- Fixed a bug in SpawnMatchesSearch which *could* cause group members to look like they gone offline.
+- Added click to nav on map - dannuic
+  Usage: hold down alt + leftclick anywhere on the mapwindow and nav will run u there if its loaded.
+
 Sep 25 2018 by eqmule
 - Updated for TEST
 

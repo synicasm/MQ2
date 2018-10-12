@@ -32,8 +32,20 @@ All - Recheck AA abilires
 all - melle=1 save for casters
 
 [SK]
+Combat Abilites
+Timer Duration Reuse Name - Desc
+01 0:00:00 0:00:15 Rigor Mortis - FD with 8% chance for forget (109 and less)
+02 0:05:00 0:36:00 Unholy Aura - Lifetap Spells  +100% damage
+03 0:00:24 1:07:30 Leechcurse - Heal 100% of melee damage done + increase accuracy 200%
+04 0:00:12 0:40:00 Deflection - Block Most attacks with shield
+05 0:01:00 0:30:00 Fearless - Immune to fear
+05 0:05:00 0:30:00 Resistant - Resistance increase
+05 0:01:00 0:15:00 Gorgon Mantle - Absorb 35% melee until 300300 absorbed
+09 0:00:00 0:00:15 Last Breath(90) - 2% Chance 2-4k Dammage / 20% Chance 3-6k Heal
+11 0:02:00 0:07:30 Gorgon Carapace - Absorb 20% melee until 151200 absorbed
+13 0:00:54 0:01:30 Respite - Regain Endurance if down 21%
+15 0:00:00 0:00:15 Defy - Absorb 90% Spell / melee until 9075 absorbed (Auto MQ2melee)
 SK - Add Respite
-SK - Add Banshee Aura
 SK - Defy
 SK - Gorgon mantle / Gorgon carapase Ability
 SK - Repulsive sacrafice with lvl 1 pet ?
@@ -99,6 +111,12 @@ Sham - Add Group Hot when spell slots enought
 		 
 
 [Bard]
+Combat Abilites
+Timer Duration Reuse Name - Desc
+01 0:00:00 0:00:15 
+
+Review 86-90 songs
+Aria of Amelioration Cure
 Bard - Consider Dance of the Dragon Absorb Magic, AC , mit ds, sr %10
 Working ?Bard - Add Pests of the Piper Swarm pets long recast maybe need reagent
 Bard - Consider Gruber's Lively Crescendo mana / hp big regen cost mana
@@ -127,6 +145,12 @@ bard - Consider adding in 	Verse of Vesagran  mitage and stat increase.
 Bard - add Song od suss for downtime food. ( not enought free gems)
 
 [Cleric]
+Celestial Contravention
+Frenzied Renewal
+Healing Splash
+Word of Resurgence
+Inspired Heal
+Celestial Intervention
 Consider Eurd's Retort
 Consider adding 2nd DD ?
 Consider Eleventh hour 35% or less quick heal
@@ -219,6 +243,10 @@ Wiz - Add Cryomancy Alt Cold
 Wiz - Add Pyromancy Alt Fire
 
 [Monk]
+Combat Abilites
+Timer Duration Reuse Name - Desc
+01 0:00:00 0:00:15 
+
 Monk - Adjust mq2melee mend settings
 Mink - Add Impenetrable Discipline
 Monk - Add Second Wind  regen endurance
